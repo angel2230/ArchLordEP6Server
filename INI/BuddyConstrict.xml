@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="Yes"?>
-
-<MentorConstrict>
-	<MaxMenteeNumber>3</MaxMenteeNumber>
-	<LimitMentorLevel>90</LimitMentorLevel>
-	<LimitMenteeLevel>30</LimitMenteeLevel>
-</MentorConstrict>

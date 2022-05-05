@@ -1,2 +1,0 @@
-EventID	ItemTID	EffectID	Ratio	Enable
-				
