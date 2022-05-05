@@ -1,0 +1,107 @@
+분류	Skill	Nemu	겔드	레벨	비고	판매 NPC
+Hunt	Collection Skill		100	1		Adventurer
+Cook	Cooking		1000	15	Mastery Level	Cook
+		Red-bean Sherbet	0	1		
+		Green Tea Sherbert	0	1		
+		Fruit Ice	0	1		
+		Broiled Meat of Vitality	500	1		
+		BBQ of Acclimatization	500	1		
+		Soup of Attack	500	1		
+		Sugary Sweet Potato	700	2		
+		Rejuvenation Roast	700	2		
+		Rejuvenation Pie	700	2		
+		Fire Jerky	1000	3		
+		Wind Jerky	1000	3		
+		Water Jerky	1000	3		
+		Earthen Stew	1000	3		
+		Magic Stew	1000	3		
+		Earthen Jerky	1500	4		
+		Magic Jerky	1500	4		
+		Fire Stew	1500	4		
+		Wind Stew	1500	4		
+		Watery Stew	1500	4		
+		Broiled Meat of Life	2500	5		
+		BBQ of Sage	2500	5		
+		Soup of Raid	2500	5		
+		Honey Sweet Potato	2500	5		
+		Healing Roast	2500	5		
+		Healing Pie	2500	5		
+		Seared Jerky	3500	6		
+		Storm Jerky	3500	6		
+		River Jerky	3500	6		
+		Plain Stew	3500	6		
+		Brain Stew	3500	6		
+		Plain Jerky	5000	7		
+		Brain Jerky	5000	7		
+		Seared Stew	5000	7		
+		Storm Stew	5000	7		
+		River Stew	5000	7		
+		Broiled Meat of Transcendence	6500	8		
+		BBQ of Nirvana	6500	8		
+		Soup of Fury	6500	8		
+		Syrupy Sweet Potato	6500	8		
+		Health Roast	6500	8		
+		Health Pie	6500	8		
+		Scorching Stew	6500	8		
+		Gentle Breeze Defense Stew	6500	8		
+		Mist Stew	6500	8		
+		Soil Stew	6500	8		
+		Meditation Defense Stew	6500	8		
+		Molten Stew	6500	9		
+		Silence Defense Stew	8000	9		
+		Waterfall Stew	8000	9		
+		Mountain Defense Stew	8000	9		
+		Transcendence Stew	8000	9		
+		Ugdrasil's Nectar	10000	10		
+		Dikain's Nectar	10000	10		
+		Gracia's Nectar	10000	10		
+		Zian's Nectar	10000	10		
+		Syripus' Nectar	10000	10		
+Alchemy	Alchemy		2000	20	Mastery Level	Alchemist
+		Spider Potion	500	1		
+		Bat Potion	500	1		
+		Deer Potion	500	1		
+		Goblin Potion	700	2		
+		Boar Potion	700	2		
+		Viper Potion	1000	3		
+		Wolf Potion	1000	3		
+		Gnoll Potion	1000	3		
+		Marylith Potion	1500	4		
+		Dragon Potion	1500	4		
+		Lizardman Potion	2500	5		
+		Vampire Potion	2500	5		
+		Lamia Potion	2500	5		
+		Skeleton Potion	3500	6		
+		Manticore Potion	3500	6		
+		Bandillion Potion	3500	6		
+		Broken Potion	3500	6		
+		Bear Potion	5000	7		
+		Ghoul Potion	5000	7		
+		Crow Potion	5000	7		
+		Troll Potion	6500	8		
+		Thief Potion	6500	8		
+		Barrick Potion	6500	8		
+		Zombie Potion	8000	9		
+		Gargoyle Potion	8000	9		
+		Pharoah Potion	8000	9		
+		Shard Dancer Potion	8000	9		
+		Griffin Potion	10000	10		
+		Spriggan Potion	10000	10		
+		Gorgon Potion	10000	10		
+		Golem Potion	10000	10		
+		Amblord Potion	10000	10		
+		Ethen Potion	10000	10		
+		Lequimes Potion	10000	10		
+		Vicious Potion	10000	10		
+		Balloondog Potion	10000	10		
+		Giggler Potion	10000	10		
+		Lowest Alchemy Box	10000	1		
+		Low Alchemy Box	20000	2		
+		Beginner Alchemy Box	30000	3		
+		Intermediate Alchemy Box	40000	4		
+		Advanced Alchemy Box	50000	5		
+		Expert Alchemy Box	60000	6		
+		High Alchemy Box	70000	7		
+		Finest Alchemy Box	80000	8		
+		Legendary Alchemy Box	90000	9		
+		Wise man's stone	100000	10		

@@ -1,0 +1,2 @@
+.DAT filter=lfs diff=lfs merge=lfs -text
+*.Dat filter=lfs diff=lfs merge=lfs -text

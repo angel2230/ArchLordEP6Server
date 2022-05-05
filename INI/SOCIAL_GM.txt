@@ -1,0 +1,15 @@
+Tid		886	문엘프GM1	
+		ANIMATION	SOUND	
+GREETING	인사	Operator_greet.rws	GM0003.WAV	
+CELEBRATION	축하	Operator_cele.rws	GM0000.WAV	
+DANCING	춤추기	Operator_dance.rws		
+WEEPING	울기	Operator_cry.rws	GM0001.WAV	
+TOAST	건배	Operator_toast.rws	GM0005.WAV	
+CHEER	환호	Operator_Cheer.rws	GM0008.WAV	
+DEEPBOW	절하기	Operator_deepbow.rws	GM0009.WAV	
+HI	안녕하세요		GM0010.WAV	
+WAIT	잠시만 기다려주세요		GM0011.WAV	
+HAPPY	아크로드와 함께즐거운 하루 되세요		GM0012.WAV	
+				
+				
+				

@@ -1,0 +1,10 @@
+name	skill_level	skill_type	buff_type	duration	dot_dmg_magic	dot_dmg_water	dot_dmg_air	dot_dmg_earth	dot_dmg_fire	dot_dmg_poison	dot_dmg_ice	dot_dmg_thunder	stun_time	skill_rate	dot_damage_time	FACTOR_POINT	movement	FACTOR_PERCENT	movement
+냉기의기원석	1 	0 		5000 										5 					-50
+	2 	0 		5000 										8 					-50
+	3 	0 		5000 										10 					-50
+전격의기원석	1 	0 											2000 	5 					
+	2 	0 											2000 	8 					
+	3 	0 											2000 	10 					
+맹독의기원석	1 	0 		30000 						2 				10 	3000 				
+	2 	0 		30000 						4 				15 	3000 				
+	3 	0 		30000 						8 				30 	3000 				

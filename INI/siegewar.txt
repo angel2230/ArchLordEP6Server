@@ -1,0 +1,6 @@
+Index	Castle	Region	SWPlayingTime	ArchonEyeOpenTime	StampingTime	NextSWDeclaring(Hours)	SelectGuildForSW(Hours)	Duration4nextSW(Days)	SWBeginTime
+0	Rensphere	렌스피어 성/렌스피어 성 인근	3600000	0	300000	0	0	30	21
+1	Inflame	인플레임 성/인플레임 성 인근	3600000	300000	180000	156	156	7	21
+2	Arthian	아르시안 성/아르시안 성 인근	3600000	300000	180000	156	156	7	21
+3	Traqua	트라쿠아 성/트라쿠아 성 인근	3600000	300000	180000	156	156	7	21
+4	Drayger	드래이거 성/드래이거 성 인근	3600000	300000	180000	156	156	7	21

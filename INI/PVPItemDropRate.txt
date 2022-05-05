@@ -1,0 +1,6 @@
+type	equip_drop	bag_drop	equip_head	equip_breast	equip_leg	equip_sleeve	equip_foot	equip_shield	equip_weapon	bag01	bag02	bag03	bag04
+normal	0	1	0	0	0	0	0	0	0	100	100	100	100
+assailant	1	1	100	100	100	100	100	100	100	100	100	100	100
+villain_step01	1	1	100	100	100	100	100	100	100	100	100	100	100
+villain_step02	1	1	100	100	100	100	100	100	100	100	100	100	100
+villain_step03	1	1	100	100	100	100	100	100	100	100	100	100	100

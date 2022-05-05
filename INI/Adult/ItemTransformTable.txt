@@ -1,0 +1,43 @@
+ItemTid	Tid	level	Name	Movement Run	ATK Speed	Max_HP	Max_MP	Defence	Min_Damage	Max_Damage
+406	272	1	Spider						26	28
+397	82	2	Bat	2000					18	24
+396	299	3	Deer	2500					22	28
+403	640	4	Goblin						31	35
+398	13	5	Boar	3000					24	30
+400	118	6	Viper			132			30	36
+1030	622	7	Wolf	3500					30	36
+1095	748	7	Marylith						45	49
+1029	644	10	Dragon					15	34	42
+1032	295	10	Lizardman			188			40	48
+1093	731	10	Vampire					18	40	48
+1094	742	11	Lamia						50	56
+402	75	11	Skeleton	-1000				21	46	54
+1034	643	12	Manticore	4000					46	54
+405	127	17	Bear			244			52	60
+1092	738	18	Ghoul					24	52	60
+1033	454	19	Troll			276			58	66
+1031	282	22	Thief						71	77
+407	85	25	Zombie	-2000				27	68	78
+1035	17	28	Gargoyle			312			68	78
+1036	456	32	Griffin	4000					74	84
+1165	637	36	Spriggan						92	98
+1091	316	42	Gorgon			348			74	84
+1166	712	57	Golem					30	74	84
+2684	501	7	Gnoll			132			30	36
+2686	509	11	Bandillion					21	46	54
+2687	516	12	Broken			216			46	54
+2689	496	12	Crow			244			52	60
+2685	474	1	Barrick						71	77
+136	838	64	Pharaoh	-2000		468			120	126
+143	929	71	Giggler	2000				42	89	100
+141	924	71	Vicious	2500					102	110
+137	915	71	Sharddancer	-1000		540			138	147
+142	922	72	Balloondog					42	119	132
+138	923	72	Amblord	4000		552			121	136
+139	1209	73	Ethen	-1000				42	140	154
+140	928	75	Requimes	2000					143	161
+3909	1276	70	Archlord							
+4021	918	1	Mysterio		-12	50				
+4022	656	1	Pharaoh King			50		10		
+4023	811	1	Erinyes General	1500		150				
+4024	16	1	Bronze Dragon Seed			100		10		

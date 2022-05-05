@@ -1,0 +1,395 @@
+Human Knight			
+	Battle	Dual Slash		
+		Linear Blow		
+		Shield Bash		
+		Triple Slash		
+		Blade Sting		
+		Stun Shock		
+		Swing shot		
+		Axe Smash		
+		Strike Of Death		
+		Hook		
+		Big Wheel		
+		Dragon Divide		
+		Normal Attack		
+	Enchant	Speed Attack		
+		Combat Echo		
+		Power Blade		
+		Power Axe		
+		Bludgeon		
+		Brute Force		
+		Faith Defender		
+		Stun Protection		
+	Special	Bellow		
+		Resistance		
+		Sprint		
+		Immortal Calling		
+		Paint With Blood		
+		Razor Sharp		
+		Sacrifice		
+		Spirit Shield		
+	Passive	Supreme Damage		
+		Power Surge		
+		Nimbleness		
+		Intellect		
+		Mind Boost		
+		Endurance		
+		Defense Hold		
+		Health Burst		
+		Spirit Snap		
+	Produce	Collection Skill		
+		Cooking		
+		Alchemy		
+				
+Human Archer				
+	Battle	Dual Shot		
+		Piercing Shot		
+		Magic Arrow		
+		Triple Shot		
+		Chain Action		
+		Blinding Strike		
+		Fire Shot		
+		Charge Shot		
+		Sniper Shot		
+		Burst Shot		
+		Arrow Hail		
+		Phoenix		
+		Normal Attack		
+	Enchant	Forces of Nature		
+		Animal Soul		
+		Power Bow		
+		Power Crossbow		
+		Snare Shot		
+	Special	Rock skin		
+		Sharp Shooter		
+		Wind Arrow		
+		Far Sight		
+		Poison Shot		
+		Soul Breath		
+		Helpless		
+		Heavy Hand		
+	Passive	Dash		
+		Power Surge		
+		Nimbleness		
+		Intellect		
+		Mind Boost		
+		Endurance		
+		Critical Hit		
+		Sure Sight		
+		Mana Gain		
+	Produce	Collection Skill		
+		Cooking		
+		Alchemy		
+				
+Human Mage				
+	Battle	Flame Core		
+		Blaze Wall		
+		Magic Bolt		
+		Water Spout		
+		Napalm Flame		
+		Mass Snare		
+		Whirlwind		
+		Hell Typhoon		
+		Earthquake		
+		Acid Rain		
+		Whirlpool		
+		Soul Chaos		
+		Normal Attack		
+		Force		
+	Enchant	Vital Conversion		
+		Geo Shards		
+		Power Staff		
+		Power Wand		
+		Wind Quake		
+	Special	Penetrate Defense		
+		Demolition Song		
+		Grind Pull		
+		Stunner		
+		Reflection		
+		Death Mark		
+		Confusion		
+		Expert Skill		
+	Passive	Hawk Eye		
+		Power Surge		
+		Nimbleness		
+		Intellect		
+		Mind Boost		
+		Endurance		
+		Critical Spells		
+		Mana Effect		
+		Physical Gain		
+	Produce	Collection Skill		
+		Cooking		
+		Alchemy		
+				
+Orc Berserker				
+	Battle	Dual Slash		
+		Linear Blow		
+		Shield Bash		
+		Triple Slash		
+		Blade Sting		
+		Stun Shock		
+		Swing shot		
+		Axe Smash		
+		Strike Of Death		
+		Hook		
+		Big Wheel		
+		Dragon Divide		
+		Normal Attack		
+	Enchant	Speed Attack		
+		Combat Echo		
+		Power Blade		
+		Power Axe		
+		Bludgeon		
+		Brute Force		
+		Faith Defender		
+		Stun Protection		
+	Special	Lethal Attack		
+		Debilitate		
+		Vital Charge		
+		Berserker		
+		Natural Warrior		
+		Body Break		
+		Panic		
+		Power Drain		
+	Passive	Supreme Damage		
+		Power Surge		
+		Nimbleness		
+		Intellect		
+		Mind Boost		
+		Endurance		
+		Red Heat		
+		Counter Attack		
+		Death Strike		
+	Produce	Collection Skill		
+		Cooking		
+		Alchemy		
+				
+Orc Hunter				
+	Battle	Dual Shot		
+		Piercing Shot		
+		Magic Arrow		
+		Triple Shot		
+		Chain Action		
+		Blinding Strike		
+		Fire Shot		
+		Charge Shot		
+		Sniper Shot		
+		Burst Shot		
+		Arrow Hail		
+		Phoenix		
+		Normal Attack		
+	Enchant	Forces of Nature		
+		Animal Soul		
+		Power Bow		
+		Power Crossbow		
+		Snare Shot		
+	Special	Misleader		
+		Defiance		
+		Pain Arrow		
+		Cure		
+		Pulverize		
+		Hustler		
+		Nightwalk		
+		Earth Attack		
+	Passive	Dash		
+		Power Surge		
+		Nimbleness		
+		Intellect		
+		Mind Boost		
+		Endurance		
+		Evade		
+		Dodge		
+		Sprite Protect		
+	Produce	Collection Skill		
+		Cooking		
+		Alchemy		
+				
+Orc Sorcerer				
+	Battle	Flame Core		
+		Blaze Wall		
+		Magic Bolt		
+		Water Spout		
+		Napalm Flame		
+		Mass Snare		
+		Whirlwind		
+		Hell Typhoon		
+		Earthquake		
+		Acid Rain		
+		Whirlpool		
+		Soul Chaos		
+		Normal Attack		
+		Force		
+	Enchant	Vital Conversion		
+		Geo Shards		
+		Power Staff		
+		Power Wand		
+		Wind Quake		
+	Special	Life Restore		
+		Testament		
+		Quagmire		
+		Mana Sequence		
+		Halt		
+		Optimum		
+		Mana Pull		
+		Assimilate		
+	Passive	Hawk Eye		
+		Power Surge		
+		Nimbleness		
+		Intellect		
+		Mind Boost		
+		Endurance		
+		Intense Magic		
+		Mind Control		
+		Armament		
+	Produce	Collection Skill		
+		Cooking		
+		Alchemy		
+				
+MoonElf Warrior				
+	Battle	Enlarge Fierce		
+		Acrobatic Charge		
+		Braking Arms		
+		Close Skirmish		
+		Precise Assault		
+		Blue Dire		
+		Recite of Breeze		
+		Insightful X		
+		Explosion Image		
+		Water Dream		
+		Wounding Critical		
+		Barrage Strike		
+		Normal Attack		
+	Enchant	Smart Force		
+		Shout of Insight		
+		Smart Blade		
+		Smart Weapon		
+		Sword Stopper		
+		Force Armour		
+		Unseeable		
+	Special	Lunar Masquerade		
+		Chant Masquerade		
+		Dauntless Masquerade		
+		Fires Masquerade		
+		Fallen Masquerade		
+		Masquerade Master		
+	Passive	Kin Sense		
+		Power Surge		
+		Nimbleness		
+		Intellect		
+		Mind Boost		
+		Endurance		
+		Dodge Form		
+		Grace		
+		Improved Strike		
+	Produce	Collection Skill		
+		Cooking		
+		Alchemy		
+				
+MoonElf Ranger				
+	Battle	Hell Bound		
+		Arrow Spear		
+		True Impact		
+		Jumping Shot		
+		Chain Reaction		
+		Multi Strike		
+		Power Kataria		
+		Sniper		
+		Sequence Attack		
+		Time Attack		
+		Shadow Chaser		
+		Elemental Core		
+		Normal Attack		
+	Enchant	Air Walk		
+		Elemental Defense		
+		Fine Bow		
+		Fine Kataria		
+		Flame Force		
+	Special	Mana Absorb		
+		Life Extinction		
+		Eternal Soul		
+		Moonlight Fever		
+		Bad Friends		
+		Mortal Dagger		
+		Invisibility		
+		Lightning Trap		
+	Passive	Intention		
+		Power Surge		
+		Nimbleness		
+		Intellect		
+		Mind Boost		
+		Endurance		
+		Acute Shot		
+		Moonlight Breath		
+		Life Grow		
+	Produce	Collection Skill		
+		Cooking		
+		Alchemy		
+				
+MoonElf Elementalist				
+	Battle	Griolli		
+		Tuuga		
+		Silpid		
+		Snow Hazard		
+		Gradion		
+		Mercury		
+		Thunder Descent		
+		Poison Vapor		
+		Elemental Storm		
+		Venom		
+		Cygnus		
+		Silver		
+		Normal Attack		
+		Might		
+	Enchant	Holy Ground		
+		Moonlight Blessing		
+		Fine Staff		
+		Fine Chakram		
+		Fairy Bless		
+	Special	Frost Armor		
+		Soul Barrier		
+		Lightning Strike		
+		Hyper Soul		
+		Increase Gate		
+		Descent of Luna		
+		Mutation		
+	Passive	Elemental Heal		
+		Power Surge		
+		Nimbleness		
+		Intellect		
+		Mind Boost		
+		Endurance		
+		Recovery Time		
+		Defense Master		
+		Combat Master		
+	Produce	Collection Skill		
+		Cooking		
+		Alchemy		
+				
+DragonScion Monk				
+	Produce	Collection Skill		
+		Cooking		
+		Alchemy		
+				
+Archlord				
+		Day and Night		
+		Rain Control		
+		Snow Control		
+		Evil Light		
+		Lord Howling		
+		Call Dragon		
+		Call Royal Knight		
+		Meteoric Shower		
+		Bitter Concussion		
+		Lightning Javelin		
+		Energy Buffer		
+		Righteous Plating		
+		Heightened Reflexes		
+		Imperceptible		
+		Aura of Decay		
+		Redemption		
+		Holy Bliss		
+				
+Race				
+		RaceWarBuff		
+				

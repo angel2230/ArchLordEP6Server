@@ -1,0 +1,5 @@
+Socket Inchant ID	Max Socket	1 Socket Rate	2 Socket Rate	3 Socket Rate	4 Socket Rate	5 Socket Rate	6 Socket Rate	7 Socket Rate	8 Socket Rate
+1	4	6000	4000	1400	250	0	0	0	0
+2	4	9500	500	1400	250	0	0	0	0
+3	8	4000	4000	4000	2400	2400	2400	250	250
+4	8	4000	4000	4000	2400	2400	2400	250	250

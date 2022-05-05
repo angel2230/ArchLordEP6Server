@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="euc-kr" standalone="no" ?>
+<NpcManager>
+  <LinkFileName>
+    <!-- 시스템NPC 루아 파일 -->
+    <NPC>
+      <!-- 이름 변경 시스템 NPC -->
+      <NPCID System="1">10000</NPCID>
+      <LUAFile>NameChange.lua</LUAFile>
+    </NPC>
+    <NPC>
+      <!-- 캐릭터봉인 시스템 NPC -->
+      <NPCID System="1">10001</NPCID>
+      <LUAFile>CerariumOrb.lua</LUAFile>
+    </NPC>
+  </LinkFileName>
+</NpcManager>

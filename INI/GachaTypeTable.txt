@@ -1,0 +1,40 @@
+[1]
+Name=무기가챠
+Comment=무기가 나옵니다.
+RaceCheck=1
+ClassCheck=1
+LevelCheck=1
+LevelLimit=1
+DropTable=GachaDropTableWeapon.txt
+[2]
+Name=방어구가챠
+Comment=방어구가 나옵니다.
+RaceCheck=1
+ClassCheck=1
+LevelCheck=1
+LevelLimit=1
+DropTable=GachaDropTableArmor.txt
+[3]
+Name=액세서리가챠
+Comment=반지랑 목걸이가 나옵니다.
+RaceCheck=1
+ClassCheck=1
+LevelCheck=1
+LevelLimit=1
+DropTable=GachaDropTableaccessories.txt
+[4]
+Name=이벤트가챠
+Comment=이벤트 아이템이 나와요.
+RaceCheck=1
+ClassCheck=1
+LevelCheck=1
+LevelLimit=1
+DropTable=GachaDropTableevent.txt
+[5]
+Name=카리스마가챠
+Comment=카리스마 아이템이 나와요.
+RaceCheck=1
+ClassCheck=1
+LevelCheck=1
+LevelLimit=1
+DropTable=GachaDropTableCharisma.txt

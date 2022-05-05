@@ -1,0 +1,750 @@
+Type	Number	Sell Name	Case	CharacterTID	UseLevel	Price(Money)	Price(Skull)
+Hair	0	Spiked 1	0	96	1	0	0
+Hair	1	Spiked 2	1	96	1	0	0
+Hair	2	Spiked 3	1	96	1	0	0
+Hair	3	Spiked 4	1	96	1	0	0
+Hair	4	Top Volume 1	1	96	7	1000	0
+Hair	5	Top Volume 2	1	96	7	1000	0
+Hair	6	Top Volume 3	1	96	7	1000	0
+Hair	7	Top Volume 4	1	96	7	1000	0
+Hair	8	Pony Tail 1	1	96	7	1500	0
+Hair	9	Pony Tail 2	1	96	7	1500	0
+Hair	10	Pony Tail 3	1	96	7	1500	0
+Hair	11	Pony Tail 4	1	96	7	1500	0
+Hair	12	Shaggy 1	1	96	7	2000	0
+Hair	13	Shaggy 2	1	96	7	2000	0
+Hair	14	Shaggy 3	1	96	7	2000	0
+Hair	15	Scratch	1	96	7	1000	0
+Hair	16	Shaved	1	96	7	1000	0
+Hair	17	Bald	1	96	7	1000	0
+Hair	18	Buffon 1	0	96	1	0	0
+Hair	19	Buffon 2	1	96	1	0	0
+Hair	20	Buffon 3	1	96	1	0	0
+Hair	21	Buffon 4	1	96	1	0	0
+Hair	22	Buffon 5	1	96	1	0	0
+Hair	23	Sweep 1	0	96	1	0	0
+Hair	24	Sweep 2	1	96	1	0	0
+Hair	25	Sweep 3	1	96	1	0	0
+Hair	26	Sweep 4	1	96	1	0	0
+Hair	27	Sweep 5	1	96	1	0	0
+Hair	28	Band Sweep 1	0	96	1	0	0
+Hair	29	Band Sweep 2	1	96	1	0	0
+Hair	30	Band Sweep 3	1	96	1	0	0
+Hair	31	Band Sweep 4	1	96	1	0	0
+Hair	32	Band Sweep 5	1	96	1	0	0
+Hair	33	Emo Cut 1	0	96	1	0	0
+Hair	34	Emo Cut 2	1	96	1	0	0
+Hair	35	Emo Cut 3	1	96	1	0	0
+Hair	36	Emo Cut 4	1	96	1	0	0
+Hair	37	Emo Cut 5	1	96	1	0	0
+Hair	38	Peak 1	0	96	1	0	0
+Hair	39	Peak 2	1	96	1	0	0
+Hair	40	Peak 3	1	96	1	0	0
+Hair	41	Peak 4	1	96	1	0	0
+Hair	42	Peak 5	1	96	1	0	0
+Hair	43	Braid Look 1	1	96	10	3000	0
+Hair	44	Braid Look 2	1	96	10	3000	0
+Hair	45	Braid Look 3	1	96	10	3000	0
+Hair	46	Braid Look 4	1	96	10	3000	0
+Hair	47	Braid Look 5	1	96	10	3000	0
+Hair	48	Wing Braid 1	1	96	10	3000	0
+Hair	49	Wing Braid 2	1	96	10	3000	0
+Hair	50	Wing Braid 3	1	96	10	3000	0
+Hair	51	Wing Braid 4	1	96	10	3000	0
+Hair	52	Wing Braid 5	1	96	10	3000	0
+Hair	53	Weaver 1	1	96	10	3000	0
+Hair	54	Weaver 2	1	96	10	3000	0
+Hair	55	Weaver 3	1	96	10	3000	0
+Hair	56	Weaver 4	1	96	10	3000	0
+Hair	57	Weaver 5	1	96	10	3000	0
+Face	0	Type 1	0	96	1	0	0
+Face	1	Type 2	1	96	7	3000	0
+Face	5	Type 3	1	96	7	2000	0
+Face	6	Type 4	1	96	7	2000	0
+Face	7	Type 5	1	96	7	2000	0
+Face	8	Type 6	1	96	7	2000	0
+Face	9	Type 7	1	96	7	2000	0
+Face	10	Type 8	1	96	7	2000	0
+Face	11	Type 9	1	96	7	2000	0
+Face	12	Type 10	1	96	7	2000	0
+Face	13	Type 11	1	96	7	2000	0
+Face	2	Type 12	1	96	7	2000	0
+Face	14	Type 13	1	96	7	2000	0
+Face	3	Type 14	1	96	7	2000	0
+Face	4	Type 15	1	96	7	2000	0
+Face	15	Type 16	1	96	7	2000	0
+Face	16	Type 17	0	96	1	0	0
+Face	17	Type 18	0	96	1	0	0
+Face	18	Type 19	0	96	1	0	0
+Face	19	Type 20	0	96	1	0	0
+Face	20	Type 21	0	96	1	0	0
+Face	21	Type 22	1	96	10	3000	0
+Face	22	Type 23	1	96	10	3000	0
+Face	23	Type 24	1	96	10	3000	0
+Hair	0	Wind Cut 1	0	6	1	0	0
+Hair	1	Wind Cut 2	1	6	1	0	0
+Hair	2	Shaggy Bang 1	1	6	7	1000	0
+Hair	3	Shaggy Bang 2	1	6	7	1000	0
+Hair	4	Shaggy Bang 3	1	6	7	1000	0
+Hair	5	Shaggy Bang 4	1	6	7	1000	0
+Hair	6	French Plat 1	1	6	7	1000	0
+Hair	7	French Plat 2	1	6	7	1000	0
+Hair	8	French Plat 3	1	6	7	1000	0
+Hair	9	French Plat 4	1	6	7	1000	0
+Hair	10	Elegance 1	1	6	7	1500	0
+Hair	11	Elegance 2	1	6	7	1500	0
+Hair	12	Elegance 3	1	6	7	1500	0
+Hair	13	Elegance 4	1	6	7	1500	0
+Hair	14	Shoulder Cut 1	0	6	1	0	0
+Hair	15	Shoulder Cut 2	1	6	1	0	0
+Hair	16	Shoulder Cut 3	1	6	1	0	0
+Hair	17	Shoulder Cut 4	1	6	1	0	0
+Hair	18	Shoulder Cut 5	1	6	1	0	0
+Hair	19	Side Part 1	0	6	1	0	0
+Hair	20	Side Part 2	1	6	1	0	0
+Hair	21	Side Part 3	1	6	1	0	0
+Hair	22	Side Part 4	1	6	1	0	0
+Hair	23	Side Part 5	1	6	1	0	0
+Hair	24	Tinkle 1	0	6	1	0	0
+Hair	25	Tinkle 2	1	6	1	0	0
+Hair	26	Tinkle 3	1	6	1	0	0
+Hair	27	Tinkle 4	1	6	1	0	0
+Hair	28	Tinkle 5	1	6	1	0	0
+Hair	29	Top Braid 1	0	6	1	0	0
+Hair	30	Top Braid 2	1	6	1	0	0
+Hair	31	Top Braid 3	1	6	1	0	0
+Hair	32	Top Braid 4	1	6	1	0	0
+Hair	33	Top Braid 5	1	6	1	0	0
+Hair	34	Pinned Bob 1	0	6	1	0	0
+Hair	35	Pinned Bob 2	1	6	1	0	0
+Hair	36	Pinned Bob 3	1	6	1	0	0
+Hair	37	Pinned Bob 4	1	6	1	0	0
+Hair	38	Pinned Bob 5	1	6	1	0	0
+Hair	39	Layered Bob 1	1	6	10	3000	0
+Hair	40	Layered Bob 2	1	6	10	3000	0
+Hair	41	Layered Bob 3	1	6	10	3000	0
+Hair	42	Layered Bob 4	1	6	10	3000	0
+Hair	43	Layered Bob 5	1	6	10	3000	0
+Hair	44	Bob with Bangs 1	1	6	10	3000	0
+Hair	45	Bob with Bangs 2	1	6	10	3000	0
+Hair	46	Bob with Bangs 3	1	6	10	3000	0
+Hair	47	Bob with Bangs 4	1	6	10	3000	0
+Hair	48	Bob with Bangs 5	1	6	10	3000	0
+Hair	49	Mushroom Bob 1	1	6	10	3000	0
+Hair	50	Mushroom Bob 2	1	6	10	3000	0
+Hair	51	Mushroom Bob 3	1	6	10	3000	0
+Hair	52	Mushroom Bob 4	1	6	10	3000	0
+Hair	53	Mushroom Bob 5	1	6	10	3000	0
+Face	0	Type 1	0	6	1	0	0
+Face	1	Type 2	1	6	7	2000	0
+Face	2	Type 3	1	6	7	3000	0
+Face	3	Type 4	1	6	7	2000	0
+Face	4	Type 5	1	6	7	2000	0
+Face	5	Type 6	1	6	7	2000	0
+Face	6	Type 7	1	6	7	2000	0
+Face	7	Type 8	0	6	1	0	0
+Face	8	Type 9	0	6	1	0	0
+Face	9	Type 10	0	6	1	0	0
+Face	10	Type 11	0	6	1	0	0
+Face	11	Type 12	0	6	1	0	0
+Face	12	Type 13	1	6	10	3000	0
+Face	13	Type 14	1	6	10	3000	0
+Face	14	Type 15	1	6	10	3000	0
+Hair	0	Half Bind 1	0	1	1	0	0
+Hair	1	Half Bind 2	1	1	1	0	0
+Hair	2	Half Bind 3	1	1	1	0	0
+Hair	3	Hurricane 1	1	1	7	1000	0
+Hair	4	Hurricane 2	1	1	7	1000	0
+Hair	5	Hurricane 3	1	1	7	1000	0
+Hair	6	Back Spiral 1	1	1	7	1500	0
+Hair	7	Back Spiral 2	1	1	7	1500	0
+Hair	8	Back Spiral 3	1	1	7	1500	0
+Hair	9	Arrow Cut 1	1	1	7	2000	0
+Hair	10	Arrow Cut 2	1	1	7	2000	0
+Hair	11	Arrow Cut 3	1	1	7	2000	0
+Hair	12	Scene Cut 1	1	1	7	1500	0
+Hair	13	Scene Cut 2	1	1	7	1500	0
+Hair	14	Scene Cut 3	1	1	7	1500	0
+Hair	15	Front Sweep 1	1	1	7	1000	0
+Hair	16	Front Sweep 2	1	1	7	1000	0
+Hair	17	Front Sweep 3	1	1	7	1000	0
+Hair	18	Floppy 1	0	1	1	0	0
+Hair	19	Floppy 2	1	1	1	0	0
+Hair	20	Floppy 3	1	1	1	0	0
+Hair	21	Floppy 4	1	1	1	0	0
+Hair	22	Floppy 5	1	1	1	0	0
+Hair	23	Wild Cut 1	0	1	1	0	0
+Hair	24	Wild Cut 2	1	1	1	0	0
+Hair	25	Wild Cut 3	1	1	1	0	0
+Hair	26	Wild Cut 4	1	1	1	0	0
+Hair	27	Wild Cut 5	1	1	1	0	0
+Hair	28	Short Cut 1	0	1	1	0	0
+Hair	29	Short Cut 2	1	1	1	0	0
+Hair	30	Short Cut 3	1	1	1	0	0
+Hair	31	Short Cut 4	1	1	1	0	0
+Hair	32	Short Cut 5	1	1	1	0	0
+Hair	33	Side Plate 1	0	1	1	0	0
+Hair	34	Side Plate 2	1	1	1	0	0
+Hair	35	Side Plate 3	1	1	1	0	0
+Hair	36	Side Plate 4	1	1	1	0	0
+Hair	37	Side Plate 5	1	1	1	0	0
+Hair	38	Semi Tail 1	0	1	1	0	0
+Hair	39	Semi Tail 2	1	1	1	0	0
+Hair	40	Semi Tail 3	1	1	1	0	0
+Hair	41	Semi Tail 4	1	1	1	0	0
+Hair	42	Semi Tail 5	1	1	1	0	0
+Hair	43	Indy Wolf 1	1	1	10	3000	0
+Hair	44	Indy Wolf 2	1	1	10	3000	0
+Hair	45	Indy Wolf 3	1	1	10	3000	0
+Hair	46	Indy Wolf 4	1	1	10	3000	0
+Hair	47	Indy Wolf 5	1	1	10	3000	0
+Hair	48	Gangster 1	1	1	10	3000	0
+Hair	49	Gangster 2	1	1	10	3000	0
+Hair	50	Gangster 3	1	1	10	3000	0
+Hair	51	Gangster 4	1	1	10	3000	0
+Hair	52	Gangster 5	1	1	10	3000	0
+Hair	53	Unisex 1	1	1	10	3000	0
+Hair	54	Unisex 2	1	1	10	3000	0
+Hair	55	Unisex 3	1	1	10	3000	0
+Hair	56	Unisex 4	1	1	10	3000	0
+Hair	57	Unisex 5	1	1	10	3000	0
+Face	0	Type 1	0	1	1	0	0
+Face	1	Type 2	1	1	7	2000	0
+Face	2	Type 3	1	1	7	3000	0
+Face	3	Type 4	1	1	7	2000	0
+Face	4	Type 5	1	1	7	2000	0
+Face	5	Type 6	1	1	7	2000	0
+Face	6	Type 7	0	1	1	0	0
+Face	7	Type 8	0	1	1	0	0
+Face	8	Type 9	0	1	1	0	0
+Face	9	Type 10	0	1	1	0	0
+Face	10	Type 11	0	1	1	0	0
+Face	11	Type 12	1	1	10	3000	0
+Face	12	Type 13	1	1	10	3000	0
+Face	13	Type 14	1	1	10	3000	0
+Hair	0	Snake 1	0	8	1	0	0
+Hair	1	Snake 2	1	8	1	0	0
+Hair	2	Swish Cut 1	1	8	7	1000	0
+Hair	3	Swish Cut 2	1	8	7	1000	0
+Hair	4	Swish Cut 3	1	8	7	1000	0
+Hair	5	Swish Cut 4	1	8	7	1000	0
+Hair	6	Side Bang 1	1	8	7	1000	0
+Hair	7	Side Bang 2	1	8	7	1000	0
+Hair	8	Side Bang 3	1	8	7	1000	0
+Hair	9	Side Bang 4	1	8	7	1000	0
+Hair	10	Front Sweep 1	1	8	7	2000	0
+Hair	11	Front Sweep 2	1	8	7	2000	0
+Hair	12	Front Sweep 3	1	8	7	2000	0
+Hair	13	Front Sweep 4	1	8	7	2000	0
+Hair	14	Triple Bind 1	1	8	7	1500	0
+Hair	15	Triple Bind 2	1	8	7	1500	0
+Hair	16	Triple Bind 3	1	8	7	1500	0
+Hair	17	Triple Bind 4	1	8	7	1500	0
+Hair	18	Light Cut 1	0	8	1	0	0
+Hair	19	Light Cut 2	1	8	1	0	0
+Hair	20	Light Cut 3	1	8	1	0	0
+Hair	21	Light Cut 4	1	8	1	0	0
+Hair	22	Light Cut 5	1	8	1	0	0
+Hair	23	Top Pin 1	0	8	1	0	0
+Hair	24	Top Pin 2	1	8	1	0	0
+Hair	25	Top Pin 3	1	8	1	0	0
+Hair	26	Top Pin 4	1	8	1	0	0
+Hair	27	Top Pin 5	1	8	1	0	0
+Hair	28	Wild Up1	0	8	1	0	0
+Hair	29	Wild Up2	1	8	1	0	0
+Hair	30	Wild Up3	1	8	1	0	0
+Hair	31	Wild Up4	1	8	1	0	0
+Hair	32	Wild Up5	1	8	1	0	0
+Hair	33	Triple Top 1	0	8	1	0	0
+Hair	34	Triple Top 2	1	8	1	0	0
+Hair	35	Triple Top 3	1	8	1	0	0
+Hair	36	Triple Top 4	1	8	1	0	0
+Hair	37	Triple Top 5	1	8	1	0	0
+Hair	38	Chinese Tail 1	0	8	1	0	0
+Hair	39	Chinese Tail 2	1	8	1	0	0
+Hair	40	Chinese Tail 3	1	8	1	0	0
+Hair	41	Chinese Tail 4	1	8	1	0	0
+Hair	42	Chinese Tail 5	1	8	1	0	0
+Hair	43	Twist Braid 1	1	8	10	3000	0
+Hair	44	Twist Braid 2	1	8	10	3000	0
+Hair	45	Twist Braid 3	1	8	10	3000	0
+Hair	46	Twist Braid 4	1	8	10	3000	0
+Hair	47	Twist Braid 5	1	8	10	3000	0
+Hair	48	Asymmetrical Tail 1	1	8	10	3000	0
+Hair	49	Asymmetrical Tail 2	1	8	10	3000	0
+Hair	50	Asymmetrical Tail 3	1	8	10	3000	0
+Hair	51	Asymmetrical Tail 4	1	8	10	3000	0
+Hair	52	Asymmetrical Tail 5	1	8	10	3000	0
+Hair	53	Bang Up 1	1	8	10	3000	0
+Hair	54	Bang Up 2	1	8	10	3000	0
+Hair	55	Bang Up 3	1	8	10	3000	0
+Hair	56	Bang Up 4	1	8	10	3000	0
+Hair	57	Bang Up 5	1	8	10	3000	0
+Face	0	Type 1	0	8	1	0	0
+Face	1	Type 2	1	8	7	2000	0
+Face	2	Type 3	1	8	7	3000	0
+Face	3	Type 4	1	8	7	2000	0
+Face	4	Type 5	1	8	7	2000	0
+Face	5	Type 6	1	8	7	2000	0
+Face	6	Type 7	0	8	1	0	0
+Face	7	Type 8	0	8	1	0	0
+Face	8	Type 9	0	8	1	0	0
+Face	9	Type 10	0	8	1	0	0
+Face	10	Type 11	0	8	1	0	0
+Face	11	Type 12	1	8	10	3000	0
+Face	12	Type 13	1	8	10	3000	0
+Face	13	Type 14	1	8	10	3000	0
+Hair	0	Blade 1	0	3	1	0	0
+Hair	1	Blade 2	1	3	1	0	0
+Hair	2	Blade 3	1	3	1	0	0
+Hair	3	Canerow 1	1	3	7	1000	0
+Hair	4	Canerow 2	1	3	7	1000	0
+Hair	5	Canerow 3	1	3	7	1000	0
+Hair	6	Dragon Slayer 1	1	3	7	1500	0
+Hair	7	Dragon Slayer 2	1	3	7	1500	0
+Hair	8	Dragon Slayer 3	1	3	7	1500	0
+Hair	9	Wolf 1	1	3	7	1000	0
+Hair	10	Wolf 2	1	3	7	1000	0
+Hair	11	Wolf 3	1	3	7	1000	0
+Hair	12	Punk 1	1	3	7	2000	0
+Hair	13	Punk 2	1	3	7	2000	0
+Hair	14	Punk 3	1	3	7	2000	0
+Hair	15	Mohican 1	1	3	7	1000	0
+Hair	16	Mohican 2	1	3	7	1000	0
+Hair	17	Mohican 3	1	3	7	1000	0
+Hair	18	Feather Decor 1	0	3	1	0	0
+Hair	19	Feather Decor 2	1	3	1	0	0
+Hair	20	Feather Decor 3	1	3	1	0	0
+Hair	21	Feather Decor 4	1	3	1	0	0
+Hair	22	Feather Decor 5	1	3	1	0	0
+Hair	23	Lightning Wave 1	0	3	1	0	0
+Hair	24	Lightning Wave 2	1	3	1	0	0
+Hair	25	Lightning Wave 3	1	3	1	0	0
+Hair	26	Lightning Wave 4	1	3	1	0	0
+Hair	27	Lightning Wave 5	1	3	1	0	0
+Hair	28	Twin Wing 1	0	3	1	0	0
+Hair	29	Twin Wing 2	1	3	1	0	0
+Hair	30	Twin Wing 3	1	3	1	0	0
+Hair	31	Twin Wing 4	1	3	1	0	0
+Hair	32	Twin Wing 5	1	3	1	0	0
+Hair	33	Chief 1	0	3	1	0	0
+Hair	34	Chief 2	1	3	1	0	0
+Hair	35	Chief 3	1	3	1	0	0
+Hair	36	Chief 4	1	3	1	0	0
+Hair	37	Chief 5	1	3	1	0	0
+Hair	38	Bone Decor 1	0	3	1	0	0
+Hair	39	Bone Decor 2	1	3	1	0	0
+Hair	40	Bone Decor 3	1	3	1	0	0
+Hair	41	Bone Decor 4	1	3	1	0	0
+Hair	42	Bone Decor 5	1	3	1	0	0
+Hair	43	Rock Chic 1	1	3	10	3000	0
+Hair	44	Rock Chic 2	1	3	10	3000	0
+Hair	45	Rock Chic 3	1	3	10	3000	0
+Hair	46	Rock Chic 4	1	3	10	3000	0
+Hair	47	Rock Chic 5	1	3	10	3000	0
+Hair	48	Fade and Bend 1	1	3	10	3000	0
+Hair	49	Fade and Bend 2	1	3	10	3000	0
+Hair	50	Fade and Bend 3	1	3	10	3000	0
+Hair	51	Fade and Bend 4	1	3	10	3000	0
+Hair	52	Fade and Bend 5	1	3	10	3000	0
+Hair	53	Xer Sorcerer 1	1	3	10	3000	0
+Face	0	Type 1	0	3	1	0	0
+Face	1	Type 2	1	3	7	2000	0
+Face	2	Type 3	1	3	7	2000	0
+Face	3	Type 4	1	3	7	3000	0
+Face	4	Type 5	1	3	7	2000	0
+Face	5	Type 6	1	3	7	2000	0
+Face	6	Type 7	1	3	7	2000	0
+Face	7	Type 8	0	3	1	0	0
+Face	8	Type 9	0	3	1	0	0
+Face	9	Type 10	0	3	1	0	0
+Face	10	Type 11	0	3	1	0	0
+Face	11	Type 12	0	3	1	0	0
+Face	12	Type 13	1	3	10	3000	0
+Face	13	Type 14	1	3	10	3000	0
+Face	14	Type 15	1	3	10	3000	0
+Hair	0	Single Bind 1	0	4	1	0	0
+Hair	1	Single Bind 2	1	4	1	0	0
+Hair	2	Single Bind 3	1	4	1	0	0
+Hair	3	Akan 1	1	4	7	1500	0
+Hair	4	Akan 2	1	4	7	1500	0
+Hair	5	Akan 3	1	4	7	1500	0
+Hair	6	Dreads 1	1	4	7	1000	0
+Hair	7	Dreads 2	1	4	7	1000	0
+Hair	8	Dreads 3	1	4	7	1000	0
+Hair	9	Boom Cut 1	1	4	7	1500	0
+Hair	10	Boom Cut 2	1	4	7	1500	0
+Hair	11	Boom Cut 3	1	4	7	1500	0
+Hair	12	Short 1	1	4	7	1000	0
+Hair	13	Short 2	1	4	7	1000	0
+Hair	14	Short 3	1	4	7	1000	0
+Hair	15	Dual Bind 1	1	4	7	2000	0
+Hair	16	Dual Bind 2	1	4	7	2000	0
+Hair	17	Dual Bind 3	1	4	7	2000	0
+Hair	18	Bald Plate 1	0	4	1	0	0
+Hair	19	Bald Plate 2	1	4	1	0	0
+Hair	20	Bald Plate 3	1	4	1	0	0
+Hair	21	Bald Plate 4	1	4	1	0	0
+Hair	22	Bald Plate 5	1	4	1	0	0
+Hair	23	Top Band 1	0	4	1	0	0
+Hair	24	Top Band 2	1	4	1	0	0
+Hair	25	Top Band 3	1	4	1	0	0
+Hair	26	Top Band 4	1	4	1	0	0
+Hair	27	Top Band 5	1	4	1	0	0
+Hair	28	Twin Coat 1	0	4	1	0	0
+Hair	29	Twin Coat 2	1	4	1	0	0
+Hair	30	Twin Coat 3	1	4	1	0	0
+Hair	31	Twin Coat 4	1	4	1	0	0
+Hair	32	Twin Coat 5	1	4	1	0	0
+Hair	33	Back Bone 1	0	4	1	0	0
+Hair	34	Back Bone 2	1	4	1	0	0
+Hair	35	Back Bone 3	1	4	1	0	0
+Hair	36	Back Bone 4	1	4	1	0	0
+Hair	37	Back Bone 5	1	4	1	0	0
+Hair	38	Sideburns 1	0	4	1	0	0
+Hair	39	Sideburns 2	1	4	1	0	0
+Hair	40	Sideburns 3	1	4	1	0	0
+Hair	41	Sideburns 4	1	4	1	0	0
+Hair	42	Sideburns 5	1	4	1	0	0
+Hair	43	Xerxes 1	1	4	10	3000	0
+Hair	44	Xerxes 2	1	4	10	3000	0
+Hair	45	Xerxes 3	1	4	10	3000	0
+Hair	46	Xerxes 4	1	4	10	3000	0
+Hair	47	Xerxes 5	1	4	10	3000	0
+Hair	48	Wild Wolf 1	1	4	10	3000	0
+Hair	49	Wild Wolf 2	1	4	10	3000	0
+Hair	50	Wild Wolf 3	1	4	10	3000	0
+Hair	51	Wild Wolf 4	1	4	10	3000	0
+Hair	52	Wild Wolf 5	1	4	10	3000	0
+Hair	53	Canerow 1	1	4	10	3000	0
+Hair	54	Canerow 2	1	4	10	3000	0
+Hair	55	Canerow 3	1	4	10	3000	0
+Hair	56	Canerow 4	1	4	10	3000	0
+Hair	57	Canerow 5	1	4	10	3000	0
+Face	0	Type 1	0	4	1	0	0
+Face	1	Type 2	1	4	7	2000	0
+Face	2	Type 3	1	4	7	3000	0
+Face	3	Type 4	1	4	7	2000	0
+Face	4	Type 5	1	4	7	2000	0
+Face	5	Type 6	1	4	7	2000	0
+Face	6	Type 7	1	4	7	2000	0
+Face	7	Type 8	1	4	7	2000	0
+Face	8	Type 9	1	4	7	2000	0
+Face	9	Type 10	1	4	7	2000	0
+Face	10	Type 11	1	4	7	2000	0
+Face	11	Type 12	0	4	1	0	0
+Face	12	Type 13	0	4	1	0	0
+Face	13	Type 14	0	4	1	0	0
+Face	14	Type 15	0	4	1	0	0
+Face	15	Type 16	0	4	1	0	0
+Face	16	Type 17	1	4	10	3000	0
+Face	17	Type 18	1	4	10	3000	0
+Face	18	Type 19	1	4	10	3000	0
+Face	19	Type 20	1	4	10	3000	0
+Face	20	Type 21	1	4	10	3000	0
+Face	21	Type 22	1	4	10	3000	0
+Face	22	Type 23	1	4	10	3000	0
+Face	23	Type 24	1	4	10	3000	0
+Hair	0	Twin Tail 1	1	9	1	0	0
+Hair	1	Twin Tail 2	1	9	1	0	0
+Hair	2	Twin Tail 3	1	9	1	0	0
+Hair	3	Round Cut 1	1	9	7	1000	0
+Hair	4	Round Cut 2	1	9	7	1000	0
+Hair	5	Round Cut 3	1	9	7	1000	0
+Hair	6	Volum Cut 1	1	9	7	1500	0
+Hair	7	Volum Cut 2	1	9	7	1500	0
+Hair	8	Volum Cut 3	1	9	7	1500	0
+Hair	9	Natural Cut 1	1	9	7	2000	0
+Hair	10	Natural Cut 2	1	9	7	2000	0
+Hair	11	Natural Cut 3	1	9	7	2000	0
+Hair	12	Urchin 1	1	9	7	3000	0
+Hair	13	Urchin 2	1	9	7	3000	0
+Hair	14	Urchin 3	1	9	7	3000	0
+Hair	15	Pop Tail 1	0	9	1	0	0
+Hair	16	Pop Tail 2	1	9	1	0	0
+Hair	17	Pop Tail 3	1	9	1	0	0
+Hair	18	Pop Tail 4	1	9	1	0	0
+Hair	19	Pop Tail 5	1	9	1	0	0
+Hair	20	Bob Cut 1	0	9	1	0	0
+Hair	21	Bob Cut 2	1	9	1	0	0
+Hair	22	Bob Cut 3	1	9	1	0	0
+Hair	23	Bob Cut 4	1	9	1	0	0
+Hair	24	Bob Cut 5	1	9	1	0	0
+Hair	25	Wave Cut 1	0	9	1	0	0
+Hair	26	Wave Cut 2	1	9	1	0	0
+Hair	27	Wave Cut 3	1	9	1	0	0
+Hair	28	Wave Cut 4	1	9	1	0	0
+Hair	29	Wave Cut 5	1	9	1	0	0
+Hair	30	Pig Tails 1	0	9	1	0	0
+Hair	31	Pig Tails 2	1	9	1	0	0
+Hair	32	Pig Tails 3	1	9	1	0	0
+Hair	33	Pig Tails 4	1	9	1	0	0
+Hair	34	Pig Tails 5	1	9	1	0	0
+Hair	35	Layered Cut 1	0	9	1	0	0
+Hair	36	Layered Cut 2	1	9	1	0	0
+Hair	37	Layered Cut 3	1	9	1	0	0
+Hair	38	Layered Cut 4	1	9	1	0	0
+Hair	39	Layered Cut 5	1	9	1	0	0
+Hair	40	Volume Bob 1	1	9	10	3000	0
+Hair	41	Volume Bob 2	1	9	10	3000	0
+Hair	42	Volume Bob 3	1	9	10	3000	0
+Hair	43	Volume Bob 4	1	9	10	3000	0
+Hair	44	Volume Bob 5	1	9	10	3000	0
+Hair	45	Asymmetrical Bob 1	1	9	10	3000	0
+Hair	46	Asymmetrical Bob 2	1	9	10	3000	0
+Hair	47	Asymmetrical Bob 3	1	9	10	3000	0
+Hair	48	Asymmetrical Bob 4	1	9	10	3000	0
+Hair	49	Asymmetrical Bob 5	1	9	10	3000	0
+Hair	50	Wave Twist 1	1	9	10	3000	0
+Hair	51	Wave Twist 2	1	9	10	3000	0
+Hair	52	Wave Twist 3	1	9	10	3000	0
+Hair	53	Wave Twist 4	1	9	10	3000	0
+Hair	54	Wave Twist 5	1	9	10	3000	0
+Face	0	Type 1	0	9	1	0	0
+Face	1	Type 2	1	9	7	2000	0
+Face	2	Type 3	1	9	7	2000	0
+Face	3	Type 4	1	9	7	3000	0
+Face	4	Type 5	1	9	7	3000	0
+Face	5	Type 6	0	9	1	0	0
+Face	6	Type 7	0	9	1	0	0
+Face	7	Type 8	0	9	1	0	0
+Face	8	Type 9	0	9	1	0	0
+Face	9	Type 10	0	9	1	0	0
+Face	10	Type 11	1	9	10	3000	0
+Face	11	Type 12	1	9	10	3000	0
+Face	12	Type 13	1	9	10	3000	0
+Face	13	Type 14	1	9	10	3000	0
+Face	14	Type 15	1	9	10	3000	0
+Face	15	Type 16	1	9	10	3000	0
+Face	16	Type 17	1	9	10	3000	0
+Hair	0	Wind Cut 1	0	460	1	0	0
+Hair	1	Wind Cut 2	1	460	1	0	0
+Hair	2	Wind Cut 3	1	460	1	0	0
+Hair	3	Wind Cut 4	1	460	1	0	0
+Hair	4	Wind Cut 5	1	460	1	0	0
+Hair	5	Wind Cut 6	1	460	1	0	0
+Hair	6	Layered Volume 1	1	460	7	1000	0
+Hair	7	Layered Volume 2	1	460	7	1000	0
+Hair	8	Layered Volume 3	1	460	7	1000	0
+Hair	9	Layered Volume 4	1	460	7	1000	0
+Hair	10	Layered Volume 5	1	460	7	1000	0
+Hair	11	Layered Volume 6	1	460	7	1000	0
+Hair	12	Fringe Cut 1	1	460	7	2000	0
+Hair	13	Fringe Cut 2	1	460	7	2000	0
+Hair	14	Fringe Cut 3	1	460	7	2000	0
+Hair	15	Spiral 1	1	460	7	3000	0
+Hair	16	Spiral 2	1	460	7	3000	0
+Hair	17	Spiral 3	1	460	7	3000	0
+Hair	18	Spiral 4	1	460	7	3000	0
+Hair	19	Spiral 5	1	460	7	3000	0
+Hair	20	Spiral 6	1	460	7	3000	0
+Hair	21	Spiral 7	1	460	7	3000	0
+Hair	22	Spiral 8	1	460	7	3000	0
+Hair	23	Side Cut 1	0	460	1	0	0
+Hair	24	Side Cut 2	1	460	1	0	0
+Hair	25	Side Cut 3	1	460	1	0	0
+Hair	26	Side Cut 4	1	460	1	0	0
+Hair	27	Side Cut 5	1	460	1	0	0
+Hair	28	Cling Cut 1	0	460	1	0	0
+Hair	29	Cling Cut 2	1	460	1	0	0
+Hair	30	Cling Cut 3	1	460	1	0	0
+Hair	31	Cling Cut 4	1	460	1	0	0
+Hair	32	Cling Cut 5	1	460	1	0	0
+Hair	33	Scruffy Cut 1	0	460	1	0	0
+Hair	34	Scruffy Cut 2	1	460	1	0	0
+Hair	35	Scruffy Cut 3	1	460	1	0	0
+Hair	36	Scruffy Cut 4	1	460	1	0	0
+Hair	37	Scruffy Cut 5	1	460	1	0	0
+Hair	38	Branch Straight 1	0	460	1	0	0
+Hair	39	Branch Straight 2	1	460	1	0	0
+Hair	40	Branch Straight 3	1	460	1	0	0
+Hair	41	Branch Straight 4	1	460	1	0	0
+Hair	42	Branch Straight 5	1	460	1	0	0
+Hair	43	Side Roll 1	0	460	1	0	0
+Hair	44	Side Roll 2	1	460	1	0	0
+Hair	45	Side Roll 3	1	460	1	0	0
+Hair	46	Side Roll 4	1	460	1	0	0
+Hair	47	Side Roll 5	1	460	1	0	0
+Hair	48	Stroke Cut 1	1	460	10	3000	0
+Hair	49	Stroke Cut 2	1	460	10	3000	0
+Hair	50	Stroke Cut 3	1	460	10	3000	0
+Hair	51	Stroke Cut 4	1	460	10	3000	0
+Hair	52	Stroke Cut 5	1	460	10	3000	0
+Hair	53	Stepped Cut 1	1	460	10	3000	0
+Hair	54	Stepped Cut 2	1	460	10	3000	0
+Hair	55	Stepped Cut 3	1	460	10	3000	0
+Hair	56	Stepped Cut 4	1	460	10	3000	0
+Hair	57	Stepped Cut 5	1	460	10	3000	0
+Hair	58	Graduation Bob 1	1	460	10	3000	0
+Hair	59	Graduation Bob 2	1	460	10	3000	0
+Hair	60	Graduation Bob 3	1	460	10	3000	0
+Hair	61	Graduation Bob 4	1	460	10	3000	0
+Hair	62	Graduation Bob 5	1	460	10	3000	0
+Face	0	Type 1	0	460	1	0	0
+Face	1	Type 2	1	460	7	2000	0
+Face	2	Type 3	1	460	7	2000	0
+Face	3	Type 4	1	460	7	3000	0
+Face	4	Type 5	1	460	7	3000	0
+Face	5	Type 6	0	460	1	0	0
+Face	6	Type 7	0	460	1	0	0
+Face	7	Type 8	0	460	1	0	0
+Face	8	Type 9	0	460	1	0	0
+Face	9	Type 10	0	460	1	0	0
+Face	10	Type 11	1	460	10	3000	0
+Face	11	Type 12	1	460	10	3000	0
+Face	12	Type 13	1	460	10	3000	0
+Face	13	Type 14	1	460	10	3000	0
+Face	14	Type 15	1	460	10	3000	0
+Face	15	Type 16	1	460	10	3000	0
+Hair	0	Comet 1	0	377	1	0	0
+Hair	1	Comet 2	1	377	7	1000	0
+Hair	2	Comet 3	1	377	7	1000	0
+Hair	3	Comet 4	1	377	7	1000	0
+Hair	4	Comet 5	1	377	7	1000	0
+Hair	5	Maid Cat 1	1	377	7	1000	0
+Hair	6	Maid Cat 2	1	377	7	1000	0
+Hair	7	Maid Cat 3	0	377	1	0	0
+Hair	8	Maid Cat 4	1	377	7	1000	0
+Hair	9	Maid Cat 5	1	377	7	1000	0
+Hair	10	Crescent 1	0	377	1	0	0
+Hair	11	Crescent 2	1	377	7	1000	0
+Hair	12	Crescent 3	1	377	7	1000	0
+Hair	13	Crescent 4	1	377	7	1000	0
+Hair	14	Crescent 5	1	377	7	1000	0
+Hair	15	Hardfencer 1	0	377	1	0	0
+Hair	16	Hardfencer 2	1	377	7	1000	0
+Hair	17	Hardfencer 3	1	377	7	1000	0
+Hair	18	Hardfencer 4	1	377	7	1000	0
+Hair	19	Hardfencer 5	1	377	7	1000	0
+Hair	20	Wild Tail 1	0	377	1	0	0
+Hair	21	Wild Tail 2	1	377	7	1000	0
+Hair	22	Wild Tail 3	1	377	7	1000	0
+Hair	23	Wild Tail 4	1	377	7	1000	0
+Hair	24	Wild Tail 5	1	377	7	1000	0
+Hair	25	Moon Sarrow 1	1	377	7	1000	0
+Hair	26	Moon Sarrow 2	1	377	7	1000	0
+Hair	27	Moon Sarrow 3	1	377	7	1000	0
+Hair	28	Moon Sarrow 4	1	377	7	1000	0
+Hair	29	Moon Sarrow 5	1	377	7	1000	0
+Hair	30	Daphne 1	1	377	7	1000	0
+Hair	31	Daphne 2	1	377	7	1000	0
+Hair	32	Daphne 3	1	377	7	1000	0
+Hair	33	Daphne 4	1	377	7	1000	0
+Hair	34	Daphne 5	0	377	1	0	0
+Hair	35	Foxy 1	1	377	7	1000	0
+Hair	36	Foxy 2	1	377	7	1000	0
+Hair	37	Foxy 3	1	377	7	1000	0
+Hair	38	Foxy 4	1	377	7	1000	0
+Hair	39	Foxy 5	1	377	7	1000	0
+Hair	40	Lunarchist 1	1	377	7	1000	0
+Hair	41	Lunarchist 2	1	377	7	1000	0
+Hair	42	Lunarchist 3	1	377	7	1000	0
+Hair	43	Lunarchist 4	1	377	7	1000	0
+Hair	44	Lunarchist 5	1	377	7	1000	0
+Hair	45	Grace 1	1	377	7	1000	0
+Hair	46	Grace 2	1	377	7	1000	0
+Hair	47	Grace 3	1	377	7	1000	0
+Hair	48	Grace 4	1	377	7	1000	0
+Hair	49	Grace 5	1	377	7	1000	0
+Hair	50	Molly Roger 1	1	377	7	1000	0
+Hair	51	Molly Roger 2	1	377	7	1000	0
+Hair	52	Molly Roger 3	1	377	7	1000	0
+Hair	53	Molly Roger 4	1	377	7	1000	0
+Hair	54	Molly Roger 5	1	377	7	1000	0
+Hair	55	Nightwing 1	1	377	7	1000	0
+Hair	56	Nightwing 2	1	377	7	1000	0
+Hair	57	Nightwing 3	1	377	7	1000	0
+Hair	58	Nightwing 4	1	377	7	1000	0
+Hair	59	Nightwing 5	1	377	7	1000	0
+Face	0	Type 1	1	377	7	1000	0
+Face	1	Type 2	1	377	7	1000	0
+Face	2	Type 3	1	377	7	1000	0
+Face	3	Type 4	0	377	1	0	0
+Face	4	Type 5	1	377	7	1000	0
+Face	5	Type 6	0	377	1	0	0
+Face	6	Type 7	1	377	7	1000	0
+Face	7	Type 8	0	377	1	0	0
+Face	8	Type 9	1	377	7	1000	0
+Face	9	Type 10	0	377	1	0	0
+Face	10	Type 11	1	377	7	1000	0
+Face	11	Type 12	1	377	7	1000	0
+Face	12	Type 13	1	377	7	1000	0
+Face	13	Type 14	1	377	7	1000	0
+Face	14	Type 15	0	377	1	0	0
+Face	15	Type 16	1	377	7	1000	0
+Face	16	Type 17	1	377	7	1000	0
+Face	17	Type 18	1	377	7	1000	0
+Face	18	Type 19	1	377	7	1000	0
+Face	19	Type 20	1	377	7	1000	0
+Face	20	Type 21	1	377	7	1000	0
+Face	21	Type 22	1	377	7	1000	0
+Face	22	Type 23	1	377	7	1000	0
+Face	23	Type 24	1	377	7	1000	0
+Face	24	Type 25	1	377	7	1000	0
+Face	25	Type 26	1	377	7	1000	0
+Hair	0	Bob Tail 1	0	1724	1	0	0
+Hair	1	Bob Tail 2	1	1724	7	1000	0
+Hair	2	Bob Tail 3	1	1724	7	1000	0
+Hair	3	Bob Tail 4	1	1724	7	1000	0
+Hair	4	Bob Tail 5	1	1724	7	1000	0
+Hair	5	Bun Hair 1	0	1724	1	0	0
+Hair	6	Bun Hair 2	1	1724	7	1000	0
+Hair	7	Bun Hair 3	1	1724	7	1000	0
+Hair	8	Bun Hair 4	1	1724	7	1000	0
+Hair	9	Bun Hair 5	1	1724	7	1000	0
+Hair	10	Cutie Horn 1	0	1724	1	0	0
+Hair	11	Cutie Horn 2	1	1724	7	1000	0
+Hair	12	Cutie Horn 3	1	1724	7	1000	0
+Hair	13	Cutie Horn 4	1	1724	7	1000	0
+Hair	14	Cutie Horn 5	1	1724	7	1000	0
+Hair	15	Cutie Ponytail 1	0	1724	1	0	0
+Hair	16	Cutie Ponytail 2	1	1724	7	1000	0
+Hair	17	Cutie Ponytail 3	1	1724	7	1000	0
+Hair	18	Cutie Ponytail 4	1	1724	7	1000	0
+Hair	19	Cutie Ponytail 5	1	1724	7	1000	0
+Hair	20	One-sided Braid 1	0	1724	1	0	0
+Hair	21	One-sided Braid 2	1	1724	7	1000	0
+Hair	22	One-sided Braid 3	1	1724	7	1000	0
+Hair	23	One-sided Braid 4	1	1724	7	1000	0
+Hair	24	One-sided Braid 5	1	1724	7	1000	0
+Hair	25	Hairpin Braid 1	1	1724	7	1000	0
+Hair	26	Hairpin Braid 2	1	1724	7	1000	0
+Hair	27	Hairpin Braid 3	1	1724	7	1000	0
+Hair	28	Hairpin Braid 4	1	1724	7	1000	0
+Hair	29	Hairpin Braid 5	1	1724	7	1000	0
+Hair	30	Feather Decor 1	1	1724	7	1000	0
+Hair	31	Feather Decor 2	1	1724	7	1000	0
+Hair	32	Feather Decor 3	1	1724	7	1000	0
+Hair	33	Feather Decor 4	1	1724	7	1000	0
+Hair	34	Feather Decor 5	1	1724	7	1000	0
+Hair	35	Roundup Pin Hair 1	1	1724	7	1000	0
+Hair	36	Roundup Pin Hair 2	1	1724	7	1000	0
+Hair	37	Roundup Pin Hair 3	1	1724	7	1000	0
+Hair	38	Roundup Pin Hair 4	1	1724	7	1000	0
+Hair	39	Roundup Pin Hair 5	1	1724	7	1000	0
+Hair	40	Roundup Ribbon Hair 1	1	1724	7	1000	0
+Hair	41	Roundup Ribbon Hair 2	1	1724	7	1000	0
+Hair	42	Roundup Ribbon Hair 3	1	1724	7	1000	0
+Hair	43	Roundup Ribbon Hair 4	1	1724	7	1000	0
+Hair	44	Roundup Ribbon Hair 5	1	1724	7	1000	0
+Hair	45	Dragon Horn 1	1	1724	7	1000	0
+Hair	46	Dragon Horn 2	1	1724	7	1000	0
+Hair	47	Dragon Horn 3	1	1724	7	1000	0
+Hair	48	Dragon Horn 4	1	1724	7	1000	0
+Hair	49	Dragon Horn 5	1	1724	7	1000	0
+Hair	50	Braid Round 1	1	1724	7	1000	0
+Hair	51	Braid Round 2	1	1724	7	1000	0
+Hair	52	Braid Round 3	1	1724	7	1000	0
+Hair	53	Braid Round 4	1	1724	7	1000	0
+Hair	54	Braid Round 5	1	1724	7	1000	0
+Face	0	Type 1	0	1724	1	0	0
+Face	1	Type 2	0	1724	1	0	0
+Face	2	Type 3	1	1724	7	1000	0
+Face	3	Type 4	0	1724	1	0	0
+Face	4	Type 5	1	1724	7	1000	0
+Face	5	Type 6	1	1724	7	1000	0
+Face	6	Type 7	1	1724	7	1000	0
+Face	7	Type 8	0	1724	1	0	0
+Face	8	Type 9	1	1724	7	1000	0
+Face	9	Type 10	1	1724	7	1000	0
+Face	10	Type 11	0	1724	1	0	0

@@ -1,0 +1,364 @@
+			갱신일
+구분인자			
+기획ID	toolID	ModuleData1	name
+1	1	AgpmCharacter	<만물상인> 대릴
+2	2	AgpmCharacter	<전사병장기상인> 쇼티
+3	3	AgpmCharacter	<궁수병장기상인> 화이트
+4	4	AgpmCharacter	<마법병장기상인> 파울라
+5	5	AgpmCharacter	<전사트레이너> 블랙
+6	6	AgpmCharacter	<궁수트레이너> 테란
+7	7	AgpmCharacter	<마법트레이너> 진토닉
+8	8	AgpmCharacter	<금고지기> 홀리
+9	9	AgpmCharacter	<대장장이> 할로
+10	10	AgpmCharacter	<아이템중개인> 소더비
+11	11	AgpmCharacter	<연금술사> 비오스
+12	12	AgpmCharacter	<요리사> 루시
+13	13	AgpmCharacter	<모험가> 카우만
+14	14	AgpmCharacter	<만물상인> 블레스
+15	15	AgpmCharacter	<전사무기상인> 파눅스
+16	16	AgpmCharacter	<전사갑옷상인> 알프
+17	17	AgpmCharacter	<궁수무기상인> 카레아
+18	18	AgpmCharacter	<궁수갑옷상인> 달페렌
+19	19	AgpmCharacter	<마법무기상인> 파나레스
+20	20	AgpmCharacter	<마법갑옷상인> 가니에
+21	21	AgpmCharacter	<전사트레이너> 마리사
+22	22	AgpmCharacter	<궁수트레이너> 마린
+23	23	AgpmCharacter	<마법트레이너> 델핀
+24	24	AgpmCharacter	<금고지기> 히메나
+25	25	AgpmCharacter	<대장장이> 파파라치
+26	26	AgpmCharacter	<길드조합장> 루치아노
+27	27	AgpmCharacter	<아이템중개인> 캣
+28	28	AgpmCharacter	<연금술사> 제리아드
+29	29	AgpmCharacter	<요리사> 레오나
+30	30	AgpmCharacter	<모험가> 아이바
+31	31	AgpmCharacter	<만물상인> 라이언
+32	32	AgpmCharacter	<전사무기상인> 리암
+33	33	AgpmCharacter	<전사갑옷상인> 블레이딘
+34	34	AgpmCharacter	<궁수무기상인> 에르멜렌
+35	35	AgpmCharacter	<궁수갑옷상인> 노비엘
+36	36	AgpmCharacter	<마법무기상인> 루시아
+37	37	AgpmCharacter	<마법갑옷상인> 시리안
+38	38	AgpmCharacter	<전사트레이너> 애런
+39	39	AgpmCharacter	<궁수트레이너> 마르스
+40	40	AgpmCharacter	<마법트레이너> 이완
+41	41	AgpmCharacter	<금고지기> 에이블린
+42	42	AgpmCharacter	<대장장이> 불칸
+43	43	AgpmCharacter	<길드조합장> 모올
+44	44	AgpmCharacter	<아이템중개인> 베이
+45	45	AgpmCharacter	<연금술사> 엑세리온
+46	46	AgpmCharacter	<요리사> 메어리
+47	47	AgpmCharacter	<모험가> 로프
+48	48	AgpmCharacter	<만물상인> 지온
+49	49	AgpmCharacter	<전사병장기상인> 메칸테
+50	50	AgpmCharacter	<궁수병장기상인> 샤킬
+51	51	AgpmCharacter	<마법병장기상인> 샤를리즈
+52	52	AgpmCharacter	<전사트레이너> 브룬타이
+53	53	AgpmCharacter	<궁수트레이너> 칼리스토
+54	54	AgpmCharacter	<마법트레이너> 트루질로
+55	55	AgpmCharacter	<금고지기> 테스
+56	56	AgpmCharacter	<대장장이> 브린 아이언스매셔
+57	57	AgpmCharacter	<아이템중개인> 모리엔
+58	58	AgpmCharacter	<연금술사> 부라
+59	59	AgpmCharacter	<요리사> 판
+60	60	AgpmCharacter	<모험가> 후커
+61	61	AgpmCharacter	<만물상인> 구트세라
+62	62	AgpmCharacter	<전사무기상인> 아즈마울
+63	63	AgpmCharacter	<전사갑옷상인> 오돈
+64	64	AgpmCharacter	<궁수무기상인> 소르
+65	65	AgpmCharacter	<궁수갑옷상인> 보르톡
+66	66	AgpmCharacter	<마법무기상인> 데네펠
+67	67	AgpmCharacter	<마법갑옷상인> 누루
+68	68	AgpmCharacter	<전사트레이너> 세시
+69	69	AgpmCharacter	<궁수트레이너> 바니타
+70	70	AgpmCharacter	<마법트레이너> 바이할
+71	71	AgpmCharacter	<금고지기> 코포
+72	72	AgpmCharacter	<대장장이> 톨 둘헤드
+73	73	AgpmCharacter	<길드조합장> 라그란
+74	74	AgpmCharacter	<아이템중개인> 옥시오르
+75	75	AgpmCharacter	<연금술사> 몬트로
+76	76	AgpmCharacter	<요리사> 굴트
+77	77	AgpmCharacter	<모험가> 포돈
+78	78	AgpmCharacter	<만물상인> 고로
+79	79	AgpmCharacter	<전사무기상인> 트랄트란
+80	80	AgpmCharacter	<전사갑옷상인> 누르크
+81	81	AgpmCharacter	<궁수무기상인> 세리토
+82	82	AgpmCharacter	<궁수갑옷상인> 고트
+83	83	AgpmCharacter	<마법무기상인> 에르발
+84	84	AgpmCharacter	<마법갑옷상인> 피르투스
+85	85	AgpmCharacter	<전사트레이너> 킬데모르
+86	86	AgpmCharacter	<궁수트레이너> 고르간
+87	87	AgpmCharacter	<마법트레이너> 라이틸로
+88	88	AgpmCharacter	<금고지기> 디포
+89	89	AgpmCharacter	<대장장이> 딜 해머폴
+90	90	AgpmCharacter	<길드조합장> 룬핑
+91	91	AgpmCharacter	<아이템중개인> 게마르트
+92	92	AgpmCharacter	<연금술사> 조르크
+93	93	AgpmCharacter	<요리사> 코코라
+94	94	AgpmCharacter	<모험가> 타리실드
+95	95	AgpmCharacter	<동장> 램브란트
+96	96	AgpmCharacter	<가드> 앵거스
+97	97	AgpmCharacter	<가드> 유안
+98	98	AgpmCharacter	<의문의 기사단> 제로
+99	99	AgpmCharacter	<시장> 메가라
+100	100	AgpmCharacter	<대장> 마르코
+101	101	AgpmCharacter	<가드> 몬테
+102	102	AgpmCharacter	<대상> 골딜락스
+103	103	AgpmCharacter	<대상> 마론
+104	104	AgpmCharacter	<대상> 매린 골드마이너
+105	105	AgpmCharacter	<수학자> 센터고라스
+106	106	AgpmCharacter	<세공사> 기비니아
+107	107	AgpmCharacter	<집사> 푸딩
+108	108	AgpmCharacter	<도서관지기> 피사레나
+109	109	AgpmCharacter	<약사> 호와킨
+110	110	AgpmCharacter	<건달> 탱고
+111	111	AgpmCharacter	<의문의 기사단> 블랭크
+112	112	AgpmCharacter	<시장> 커티
+113	113	AgpmCharacter	<대장군> 비콘
+114	114	AgpmCharacter	<마법사> 론
+115	115	AgpmCharacter	<가드> 아리안
+116	116	AgpmCharacter	<의문의 기사단> 미스터리오
+117	117	AgpmCharacter	<장로> 브루소토
+118	118	AgpmCharacter	<가드> 로젠
+119	119	AgpmCharacter	<가드> 돌프
+120	120	AgpmCharacter	<의문의 전사단> 바쉬
+121	121	AgpmCharacter	<시장> 다손
+122	122	AgpmCharacter	<대장> 부르크
+123	123	AgpmCharacter	<가드> 도도몬
+124	124	AgpmCharacter	<기계공> 마루도스
+125	125	AgpmCharacter	<걸인> 아브라크
+126	126	AgpmCharacter	<우체부> 히리레누스
+127	127	AgpmCharacter	<약사> 바부론
+128	128	AgpmCharacter	<화가> 시르리엔
+129	129	AgpmCharacter	<자경대장> 아스쿠
+130	130	AgpmCharacter	<자경대장> 미르쿠
+131	131	AgpmCharacter	<의문의 전사단> 바쿰
+132	132	AgpmCharacter	<시장> 프로스토
+133	133	AgpmCharacter	<대장군> 쿠이그
+134	134	AgpmCharacter	<가드> 푸
+135	135	AgpmCharacter	<도박사> 윈데이우스
+136	136	AgpmCharacter	<떠돌이상인> 킵 고트헤드
+137	137	AgpmCharacter	<귀족> 트루가브
+138	138	AgpmCharacter	<의사> 메디테루스
+139	139	AgpmCharacter	<세공사> 도부로트
+140	140	AgpmCharacter	<의문의 전사단> 랏
+141	141	AgpmCharacter	<만물상인> 시드니
+142	142	AgpmCharacter	<대장장이> 볼펀치
+143	143	AgpmCharacter	<여행자> 하콘
+144	144	AgpmCharacter	<여행자> 브리트니
+145	145	AgpmCharacter	<만물상인> 부르부르
+146	146	AgpmCharacter	<대장장이> 미노 파이어아이
+147	147	AgpmCharacter	<여행자> 란시노스
+148	148	AgpmCharacter	<여행자> 아도
+149	149	AgpmCharacter	<만물상인> 우토
+150	150	AgpmCharacter	<대장장이> 사이 아이언이터
+151	151	AgpmCharacter	<여행자> 바크크
+152	152	AgpmCharacter	<여행자> 타라
+153	153	AgpmCharacter	<순례자> 녹스
+154	154	AgpmCharacter	<순례자> 카나리아
+155	155	AgpmCharacter	<광부> 피킨 파이어픽
+156	156	AgpmCharacter	<동장> 아리티 스틸위스퍼러
+157	157	AgpmCharacter	<용병> 보붐
+158	158	AgpmCharacter	<오드오브지킴이> 파피
+159	159	AgpmCharacter	<광부> 마인 미스틱아이
+160	160	AgpmCharacter	<석공> 티린 스톤플레임
+161	161	AgpmCharacter	<만물상인> 기린
+162	162	AgpmCharacter	<전사무기상인> 빅대디
+163	163	AgpmCharacter	<전사갑옷상인> 크로스
+164	164	AgpmCharacter	<궁수무기상인> 링딘
+165	165	AgpmCharacter	<궁수갑옷상인> 세레세렐
+166	166	AgpmCharacter	<마법무기상인> 셀레노
+167	167	AgpmCharacter	<마법갑옷상인> 윌로스
+168	168	AgpmCharacter	<전사트레이너> 엑센
+169	169	AgpmCharacter	<궁수트레이너> 로빈돌
+170	170	AgpmCharacter	<마법트레이너> 미아
+171	171	AgpmCharacter	<금고지기> 골드스톡
+172	172	AgpmCharacter	<대장장이> 토룬
+173	173	AgpmCharacter	<길드조합장> 구엘
+174	174	AgpmCharacter	<아이템중개인> 돌리
+175	175	AgpmCharacter	<연금술사> 로미테우스
+176	176	AgpmCharacter	<요리사> 세틴
+177	177	AgpmCharacter	<모험가> 인디
+178	178	AgpmCharacter	<장로> 마에블링
+179	179	AgpmCharacter	<의문의 기사단> 사이퍼
+180	180	AgpmCharacter	<여행자> 가이슬롯
+181	181	AgpmCharacter	<여행자> 엘바
+182	182	AgpmCharacter	<약사> 아문드
+183	183	AgpmCharacter	<만물상인> 쿠로
+184	184	AgpmCharacter	<전사무기상인> 스키타
+185	185	AgpmCharacter	<전사갑옷상인> 피베이
+186	186	AgpmCharacter	<궁수무기상인> 샤크란
+187	187	AgpmCharacter	<궁수갑옷상인> 발라카스
+188	188	AgpmCharacter	<마법무기상인> 즈완
+189	189	AgpmCharacter	<마법갑옷상인> 쿠엔틴
+190	190	AgpmCharacter	<전사트레이너> 누엔도
+191	191	AgpmCharacter	<궁수트레이너> 모토
+192	192	AgpmCharacter	<마법트레이너> 텔레캐스터
+193	193	AgpmCharacter	<금고지기> 켈로그
+194	194	AgpmCharacter	<대장장이> 팔콘
+195	195	AgpmCharacter	<길드조합장> 장기에프
+196	196	AgpmCharacter	<아이템중개인> 시이나
+197	197	AgpmCharacter	<연금술사> 데스노트
+198	198	AgpmCharacter	<요리사> 바실
+199	199	AgpmCharacter	<모험가> 펠리시아
+200	200	AgpmCharacter	<치안대장> 쿱
+201	201	AgpmCharacter	<용병> 스카
+202	202	AgpmCharacter	<여행자> 카네이오스
+203	203	AgpmCharacter	<여행자> 대그
+204	204	AgpmCharacter	<의문의 기사단> 드루파
+205	205	AgpmCharacter	<점쟁이> 에스트라
+206	206	AgpmCharacter	<의문의 기사단> 쏜
+207	207	AgpmCharacter	<의문의 기사단> 하트
+208	208	AgpmCharacter	<의문의 기사단> 킵
+209	209	AgpmCharacter	<의문의 기사단> 돈
+210	210	AgpmCharacter	<자객> 파르스카
+211	211	AgpmCharacter	<의문의 전사단> 캉
+212	212	AgpmCharacter	<의문의 전사단> 토피
+213	213	AgpmCharacter	<의문의 전사단> 파람
+214	214	AgpmCharacter	<의문의 전사단> 볼
+215	215	AgpmCharacter	<수학자> 지니어스
+216	216	AgpmCharacter	<주민> 굿
+217	217	AgpmCharacter	<주민> 웰
+218	218	AgpmCharacter	<주민> 로튼
+219	219	AgpmCharacter	<주민> 햄
+220	220	AgpmCharacter	<성형술사> 글라디올
+221	221	AgpmCharacter	<성형술사> 라나
+222	222	AgpmCharacter	<성형술사> 쥬디스
+223	223	AgpmCharacter	<성형술사> 파우델
+224	224	AgpmCharacter	<성형술사> 아이시엔
+225	225	AgpmCharacter	<성형술사> 도미온
+226	226	AgpmCharacter	<귀족> 빌트모스
+227	227	AgpmCharacter	<귀족> 코스모스
+228	228	AgpmCharacter	<사냥꾼> 트리거
+229	229	AgpmCharacter	<여관주인> 배드웰
+230	230	AgpmCharacter	<소환사> 알트만
+231	231	AgpmCharacter	<판관> 파리아넬
+232	232	AgpmCharacter	<사냥꾼> 기드옴
+233	233	AgpmCharacter	<마법사> 모르모린
+234	234	AgpmCharacter	<모험가> 윌콧
+235	235	AgpmCharacter	<모험가> 알퀴란
+236	236	AgpmCharacter	<만물상인> 기리듐
+237	237	AgpmCharacter	<궁수병장기상인> 베딜라
+238	238	AgpmCharacter	<마법병장기상인> 살리레넨
+239	239	AgpmCharacter	<궁수트레이너> 덴틀로스
+240	240	AgpmCharacter	<마법트레이너> 오로루나
+241	241	AgpmCharacter	<금고지기> 피르넬리
+242	242	AgpmCharacter	<대장장이> 아이레
+243	243	AgpmCharacter	<아이템중개인> 페르데
+244	244	AgpmCharacter	<연금술사> 이베릭
+245	245	AgpmCharacter	<요리사> 아스칸델
+246	246	AgpmCharacter	<모험가> 드루리온
+247	247	AgpmCharacter	<성형술사> 라루나
+248	248	AgpmCharacter	<가드> 니블
+249	249	AgpmCharacter	<가드> 리비온
+250	250	AgpmCharacter	<마법사> 에노디엘
+251	251	AgpmCharacter	<주민> 라우루나
+252	252	AgpmCharacter	<주민> 브루
+253	253	AgpmCharacter	<점쟁이> 팅클렌
+254	254	AgpmCharacter	<장로> 보스렌
+255	255	AgpmCharacter	<만물상인> 파라켄
+256	256	AgpmCharacter	<궁수무기상인> 텔프
+257	257	AgpmCharacter	<궁수갑옷상인> 그로트
+258	258	AgpmCharacter	<마법무기상인> 로넨들
+259	259	AgpmCharacter	<마법갑옷상인> 섬브라스
+260	260	AgpmCharacter	<궁수트레이너> 시아포스
+261	261	AgpmCharacter	<마법트레이너> 아나카렌
+262	262	AgpmCharacter	<금고지기> 카리튼
+263	263	AgpmCharacter	<대장장이> 틴코넬
+264	264	AgpmCharacter	<아이템중개인> 할볼
+265	265	AgpmCharacter	<연금술사> 로벨로
+266	266	AgpmCharacter	<요리사> 메가스웬
+267	267	AgpmCharacter	<모험가> 이노크소스
+268	268	AgpmCharacter	<성형술사> 린센트
+269	269	AgpmCharacter	<길드조합장> 레디알루나
+270	270	AgpmCharacter	<음유시인> 다에센트
+271	271	AgpmCharacter	<여관주인> 제로닌
+272	272	AgpmCharacter	<종업원> 키르크
+273	273	AgpmCharacter	<약재상> 밀로
+274	274	AgpmCharacter	<마법사> 뉴랄
+275	275	AgpmCharacter	<목수> 브로 우드크래커
+276	276	AgpmCharacter	<주민> 두다인
+277	277	AgpmCharacter	<주민> 카리엘
+278	278	AgpmCharacter	<주민> 달리센트
+279	279	AgpmCharacter	<도시대표> 키프로소스
+280	280	AgpmCharacter	<만물상인> 벨벤
+281	281	AgpmCharacter	<궁수무기상인> 베닌센트
+282	282	AgpmCharacter	<궁수갑옷상인> 필구엔
+283	283	AgpmCharacter	<마법무기상인> 시아시엔
+284	284	AgpmCharacter	<마법갑옷상인> 멘타
+285	285	AgpmCharacter	<궁수트레이너> 고노스
+286	286	AgpmCharacter	<마법트레이너> 린텐루나
+287	287	AgpmCharacter	<금고지기> 리지오
+288	288	AgpmCharacter	<대장장이> 로렐루나
+289	289	AgpmCharacter	<아이템중개인> 욜드
+290	290	AgpmCharacter	<연금술사> 마일로
+291	291	AgpmCharacter	<요리사> 누인센트
+292	292	AgpmCharacter	<모험가> 드라마우스
+293	293	AgpmCharacter	<성형술사> 퍼플루나
+294	294	AgpmCharacter	<길드조합장> 웬딜렌
+295	295	AgpmCharacter	<재단사> 페라나
+296	296	AgpmCharacter	<사냥꾼> 후디안
+297	297	AgpmCharacter	<악사> 엔델민
+298	298	AgpmCharacter	<장로> 아라타마
+299	299	AgpmCharacter	<고고학자> 키리센트
+300	300	AgpmCharacter	<대장> 베르셀루나
+301	301	AgpmCharacter	<마법사> 엑스카도르
+302	302	AgpmCharacter	<주민> 로게르
+303	303	AgpmCharacter	<만물상인> 세라 하이렌
+304	304	AgpmCharacter	<궁수트레이너> 레드우로스
+305	305	AgpmCharacter	<궁수무기상인> 레물로스
+306	306	AgpmCharacter	<궁수갑옷상인> 라일리
+307	307	AgpmCharacter	<마법무기상인> 거스토푸
+308	308	AgpmCharacter	<마법갑옷상인> 칼라렌
+309	309	AgpmCharacter	<마법트레이너> 비불란
+310	310	AgpmCharacter	<금고지기> 레란체
+311	311	AgpmCharacter	<대장장이> 디디에
+312	312	AgpmCharacter	<길드조합장> 마일 해밀
+313	313	AgpmCharacter	<아이템중개인> 픽 독 픽
+314	314	AgpmCharacter	<연금술사> 볼란마르
+315	315	AgpmCharacter	<요리사> 라르데
+316	316	AgpmCharacter	<모험가> 바룬
+317	317	AgpmCharacter	<장로> 샤린 하이렌
+318	318	AgpmCharacter	<여행자> 자일톤
+319	319	AgpmCharacter	<약사> 타일런
+320	320	AgpmCharacter	<사육사> 포스테로스
+321	321	AgpmCharacter	<사육사> 너슬리
+322	322	AgpmCharacter	<사육사> 피를리에
+323	323	AgpmCharacter	<주시자> 엘카인
+324	324	AgpmCharacter	<만물상인> 멀티
+325	325	AgpmCharacter	<전사무기상인> 세머스
+326	326	AgpmCharacter	<전사갑옷상인> 몽골라
+327	327	AgpmCharacter	<궁수무기상인> 엔바워
+328	328	AgpmCharacter	<궁수갑옷상인> 탈리란
+329	329	AgpmCharacter	<마법무기상인> 레알
+330	330	AgpmCharacter	<마법갑옷상인> 벨릭
+331	331	AgpmCharacter	<금고지기> 번들
+332	332	AgpmCharacter	<대장장이> 님 스카이로더
+333	333	AgpmCharacter	<길드조합장> 프린시젤
+334	334	AgpmCharacter	<아이템중개인> 팁톡
+335	335	AgpmCharacter	<연금술사> 젬
+336	336	AgpmCharacter	<요리사> 키치넨
+337	337	AgpmCharacter	<모험가> 알렉시
+338	338	AgpmCharacter	<성형술사> 마이켄
+339	339	AgpmCharacter	<선장> 기딤 스톰스토퍼
+340	340	AgpmCharacter	<바드> 비닐
+341	341	AgpmCharacter	<귀족> 이시고
+342	342	AgpmCharacter	<떠돌이전사> 실버체어
+343	343	AgpmCharacter	<여행자> 지하자
+344	344	AgpmCharacter	<사면관> 스펠라
+345	345	AgpmCharacter	<사면관> 위시텔
+346	346	AgpmCharacter	<사면관> 자스멜렌
+347	347	AgpmCharacter	<사면관> 러펠
+348	348	AgpmCharacter	<사면관>스피리첼
+349	349	AgpmCharacter	<사면관> 파드니엔
+350	350	AgpmCharacter	<대장장이> 놉 샌드윙
+351	351	AgpmCharacter	<만물상인> 페르
+352	352	AgpmCharacter	<도굴꾼> 토레
+353	353	AgpmCharacter	<촌장> 욘
+354	354	AgpmCharacter	<향료상인> 바리오스
+355	355	AgpmCharacter	<마법사> 로인 빅마우스
+356	356	AgpmCharacter	<관리자> 그란도
+357	357	AgpmCharacter	<몬스터마스터> 게오르그
+358	358	AgpmCharacter	<안내자> 포르크로도
+359	359	AgpmCharacter	<안내자> 프론티엘
+371	371	AgpmCharacter	<Siege Commander
+453	453	AgpmCharacter	<Merchant> stone

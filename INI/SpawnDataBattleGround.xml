@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<BattleGroundSpawnData>
+	<AbilityControl></AbilityControl>
+	<SpawnList></SpawnList>
+	<AddSkill>
+		<Looser CastHalt=0 RaceHalt=0></Looser>
+	</AddSkill>
+</BattleGroundSpawnData>

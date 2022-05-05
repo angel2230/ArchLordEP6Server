@@ -1,0 +1,36 @@
+Tid / 이름표		96	휴먼전사	1	휴먼궁수	6	휴먼법사	4	오크전사	8	오크궁수	3	오크법사	460	엘프궁수	9	엘프엘리
+		ANIMATION	SOUND	ANIMATION	SOUND	ANIMATION	SOUND	ANIMATION	SOUND	ANIMATION	SOUND	ANIMATION	SOUND	ANIMATION	SOUND	ANIMATION	SOUND
+GREETING	인사	H_KNI_M_GREET.rws	AA0000.WAV	H_ARC_M_GREET.rws	AB0000.WAV	H_WIZ_W_GREET.rws	AC0000.WAV	O_WAR_M_GREET.rws	AD0000.wav	O_HUN_W_GREET.rws	AF0000.wav	O_SHA_M_GREET.rws	AE0000.wav	M_Hunter_W_GREET.rws	AG0000.wav	M_Sha_W_GREET.rws	AH0000.wav
+CELEBRATION	축하	H_KNI_M_CELE.rws	AA0001.WAV	H_ARC_M_CELE.rws	AB0001.WAV	H_WIZ_W_CELE.rws	AC0001.WAV	O_WAR_M_CELE.rws	AD0001.wav	O_HUN_W_CELE.rws	AF0001.wav	O_SHA_M_CELE.rws	AE0001.wav	M_Hunter_W_CELE.rws	AG0001.wav	M_Sha_W_CELE.rws	AH0001.wav
+GRATITUDE	감사	H_KNI_M_GRATITUDE.rws	AA0002.WAV	H_ARC_M_GRATITUDE.rws	AB0002.WAV	H_WIZ_W_GRATITUDE.rws	AC0002.WAV	O_WAR_M_GRATITUDE.rws	AD0002.wav	O_HUN_W_GRATITUDE.rws	AF0002.wav	O_SHA_M_GRATITUDE.rws	AE0002.wav	M_Hunter_W_GRATITUDE.rws	AG0002.wav	M_Sha_W_GRATITUDE.rws	AH0002.wav
+ENCOURAGEMENT	격려	H_KNI_M_ENCO.rws	AA0003.WAV	H_ARC_M_ENCO.rws	AB0003.WAV	H_WIZ_W_ENCO.rws	AC0003.WAV	O_WAR_M_ENCO.rws	AD0003.wav	O_HUN_W_ENCO.rws	AF0003.wav	O_SHA_M_ENCO.rws	AE0003.wav	M_Hunter_W_ENCO.rws	AG0003.wav	M_Sha_W_ENCO.rws	AH0003.wav
+DISREGARD	무시	H_KNI_M_DIS.rws	AA0004.WAV	H_ARC_M_DIS.rws	AB0004.WAV	H_WIZ_W_DIS.rws	AC0004.WAV	O_WAR_M_DIS.rws	AD0004.wav	O_HUN_W_DIS.rws	AF0004.wav	O_SHA_M_DIS.rws	AE0004.wav	M_Hunter_W_DIS.rws	AG0004.wav	M_Sha_W_DIS.rws	AH0004.wav
+DANCING	춤추기	H_KNI_M_DANCE.rws	AA0005.WAV	H_ARC_M_DANCE.rws	AB0005.WAV	H_WIZ_W_DANCE.rws	AC0005.WAV	O_WAR_M_DANCE.rws	AD0005.wav	O_HUN_W_DANCE.rws	AF0005.wav	O_SHA_M_DANCE.rws	AE0005.wav	M_Hunter_W_DANCE.rws	AG0005.wav	M_Sha_W_DANCE.rws	AH0005.wav
+DOZINESS	졸기	H_KNI_M_DOZINESS.rws	AA0006.WAV	H_ARC_M_DOZINESS.rws	AB0006.WAV	H_WIZ_W_DOZINESS.rws	AC0006.WAV	O_WAR_M_DOZINESS.rws	AD0006.wav	O_HUN_W_DOZINESS.rws	AF0006.wav	O_SHA_M_DOZINESS.rws	AE0006.wav	M_Hunter_W_DOZINESS.rws	AG0006.wav	M_Sha_W_DOZINESS.rws	AH0006.wav
+STRETCH	기지개	H_KNI_M_STRETCH.rws	AA0007.WAV	H_ARC_M_STRETCH.rws	AB0007.WAV	H_WIZ_W_STRETCH.rws	AC0007.WAV	O_WAR_M_STRETCH.rws	AD0007.wav	O_HUN_W_STRETCH.rws	AF0007.wav	O_SHA_M_STRETCH.rws	AE0007.wav	M_Hunter_W_STRETCH.rws	AG0007.wav	M_Sha_W_STRETCH.rws	AH0007.wav
+LAUGH	웃기	H_KNI_M_GIGL.rws	AA0008.WAV	H_ARC_M_GIGL.rws	AB0008.WAV	H_WIZ_W_GIGL.rws	AC0008.WAV	O_WAR_M_GIGL.rws	AD0008.wav	O_HUN_W_GIGL.rws	AF0008.wav	O_SHA_M_GIGL.rws	AE0008.wav	M_Hunter_W_GIGL.rws	AG0008.wav	M_Sha_W_GIGL.rws	AH0008.wav
+WEEPING	울기	H_KNI_M_WEEPING.rws	AA0009.WAV	H_ARC_M_WEEPING.rws	AB0009.WAV	H_WIZ_W_WEEPING.rws	AC0009.WAV	O_WAR_M_WEEPING.rws	AD0009.wav	O_HUN_W_WEEPING.rws	AF0009.wav	O_SHA_M_WEEPING.rws	AE0009.wav	M_Hunter_W_WEEPING.rws	AG0009.wav	M_Sha_W_WEEPING.rws	AH0009.wav
+RAGE	분노	H_KNI_M_RAGE.rws	AA0010.WAV	H_ARC_M_RAGE.rws	AB0010.WAV	H_WIZ_W_RAGE.rws	AC0010.WAV	O_WAR_M_RAGE.rws	AD0010.wav	O_HUN_W_RAGE.rws	AF0010.wav	O_SHA_M_RAGE.rws	AE0010.wav	M_Hunter_W_RAGE.rws	AG0010.wav	M_Sha_W_RAGE.rws	AH0010.wav
+POUT	토라짐	H_KNI_M_POUT.rws	AA0011.WAV	H_ARC_M_POUT.rws	AB0011.WAV	H_WIZ_W_POUT.rws	AC0011.WAV	O_WAR_M_POUT.rws	AD0011.wav	O_HUN_W_POUT.rws	AF0011.wav	O_SHA_M_POUT.rws	AE0011.wav	M_Hunter_W_POUT.rws	AG0011.wav	M_Sha_W_POUT.rws	AH0011.wav
+APOLOGY	사과	H_KNI_M_APOLOGY.rws	AA0012.WAV	H_ARC_M_APOLOGY.rws	AB0012.WAV	H_WIZ_W_APOLOGY.rws	AC0012.WAV	O_WAR_M_APOLOGY.rws	AD0012.wav	O_HUN_W_APOLOGY.rws	AF0012.wav	O_SHA_M_APOLOGY.rws	AE0012.wav	M_Hunter_W_APOLOGY.rws	AG0012.wav	M_Sha_W_APOLOGY.rws	AH0012.wav
+TOAST	건배	H_KNI_M_TOAST.rws	AA0013.WAV	H_ARC_M_TOAST.rws	AB0013.WAV	H_WIZ_W_TOAST.rws	AC0013.WAV	O_WAR_M_TOAST.rws	AD0013.wav	O_HUN_W_TOAST.rws	AF0013.wav	O_SHA_M_TOAST.rws	AE0013.wav	M_Hunter_W_TOAST.rws	AG0013.wav	M_Sha_W_TOAST.rws	AH0013.wav
+CHEER	환호	H_KNI_M_CHEER.rws	AA0014.WAV	H_ARC_M_CHEER.rws	AB0014.WAV	H_WIZ_W_CHEER.rws	AC0014.WAV	O_WAR_M_CHEER.rws	AD0014.wav	O_HUN_W_CHEER.rws	AF0014.wav	O_SHA_M_CHEER.rws	AE0014.wav	M_Hunter_W_CHEER.rws	AG0014.wav	M_Sha_W_CHEER.rws	AH0014.wav
+RUSH	돌격	H_KNI_M_RUSH.rws	AA0015.WAV	H_ARC_M_RUSH.rws	AB0015.WAV	H_WIZ_W_RUSH.rws	AC0015.WAV	O_WAR_M_RUSH.rws	AD0015.wav	O_HUN_W_RUSH.rws	AF0015.wav	O_SHA_M_RUSH.rws	AE0015.wav	M_Hunter_W_RUSH.rws	AG0015.wav	M_Sha_W_RUSH.rws	AH0015.wav
+SIT	앉기	H_KNI_M_SIT.rws	AA0016.WAV	H_ARC_M_SIT.rws	AB0016.WAV	H_WIZ_W_SIT.rws	AC0016.WAV	O_WAR_M_SIT.rws	AD0016.wav	O_HUN_W_SIT.rws	AF0016.wav	O_SHA_M_SIT.rws	AE0016.wav	M_Hunter_W_SIT.rws	AG0016.wav	M_Sha_W_SIT.rws	AH0016.wav
+OKMARIO	옼마리오							O_WAR_M_OKMARIO.rws	AD0017.wav								
+																	
+SELECT1	Defalut	H_KNI_M_HAND_selection.rws		H_Arc_M_HAND_selection.rws		H_Wiz_W_Hand_Selection.rws		O_War_M_Hand_Selection.rws		O_Hun_W_Hand_Selection.rws		O_Sha_M_Hand_Selection.rws		M_Hunter_W_Hand_Selection.rws		M_Sha_W_HAND_selection.rws	
+SELECT2	"""한손검,bow,staff"""	H_Kni_M_OneSword_Selection.rws		H_Arc_M_Bow_selection.rws		H_Wiz_W_Hand_Selection.rws		O_War_M_OneSword_Selection.rws		O_Hun_W_Bow_Selection.rws		O_Sha_M_Staff_Selection.rws		M_Hunter_W_Bow_Selection.rws		M_Sha_W_STAFF_selection.rws	
+SELECT3	"한손둔기,c-bow,!staff"	H_Kni_M_OneSword_Selection.rws		H_Arc_M_Crossbow_selection.rws		H_Wiz_W_Hand_Selection.rws		O_War_M_OneSword_Selection.rws		O_Hun_W_Crossbow_Selection.rws		O_Sha_M_Wand_Selection.rws					
+SELECT4	두손검	H_Kni_M_TwoSword_Selection.rws						O_War_M_TwoSword_Selection.rws									
+SELECT5	두손둔기	H_Kni_M_TwoSword_Selection.rws						O_War_M_2Blunt_Selection.rws									
+SELECT6	폴암	H_Kni_M_Polearm_Selection.rws						O_War_M_Polearm_Selection.rws									
+SELECT7	싸이쓰	H_Kni_M_Polearm_Selection.rws						O_War_M_Polearm_Selection.rws						M_Hunter_W_KATARIYA_Selection.rws		M_Sha_W_CHAKRAM_selection.rws	
+SELECT1_BACK	Defalut	H_KNI_M_HAND_Selection_B.rws		H_Arc_M_HAND_selection_B.rws		H_Wiz_W_Hand_Selection_B.rws		O_War_M_Hand_Selection_B.rws		O_HUN_W_HAND_SELECTION_B.rws		O_Sha_M_Hand_Selection_B.rws		M_Hunter_W_Hand_Selection_B.rws		M_Sha_W_HAND_selection_B.rws	
+SELECT2_BACK	"""한손검,bow,staff"""	H_Kni_M_OneSword_Selection_B.rws		H_Arc_M_Bow_selection_B.rws		H_Wiz_W_Hand_Selection_B.rws		O_War_M_OneSword_Selection_B.rws		O_HUN_W_BOW_SELECTION_B.rws		O_Sha_M_Staff_Selection_B.rws		M_Hunter_W_Bow_Selection_B.rws		M_Sha_W_STAFF_selection_B.rws	
+SELECT3_BACK	"한손둔기,c-bow,!staff"	H_Kni_M_OneSword_Selection_B.rws		H_Arc_M_Crossbow_selection_B.rws		H_Wiz_W_Hand_Selection_B.rws		O_War_M_OneSword_Selection_B.rws		O_HUN_W_CROSSBOW_SELECTION_B.rws		O_Sha_M_Wand_Selection_B.rws					
+SELECT4_BACK	두손검	H_Kni_M_TwoSword_Selection_B.rws						O_War_M_TwoSword_Selection_B.rws									
+SELECT5_BACK	두손둔기	H_Kni_M_TwoSword_Selection_B.rws						O_War_M_2Blunt_Selection_B.rws								
+SELECT6_BACK	폴암	H_Kni_M_Polearm_Selection_B.rws						O_War_M_Polearm_Selection_B.rws								
+SELECT7_BACK	싸이쓰	H_Kni_M_Polearm_Selection_B.rws						O_War_M_Polearm_Selection_B.rws						M_Hunter_W_KATARIYA_Selection_B.rws		M_Sha_W_CHAKRAM_selection_B.rws
+																

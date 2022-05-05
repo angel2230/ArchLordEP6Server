@@ -1,0 +1,78 @@
+Type	Number	Name	Price(Money)	Price              (Skull TID)	Price-number
+Bottom	01	스크래치	10000	0	0
+Bottom	02	구름	10000	0	0
+Bottom	03	회색연기	10000	0	0
+Bottom	04	짙은안개	10000	0	0
+Bottom	05	모래바람	10000	0	0
+Bottom	06	흙기둥	10000	0	0
+Bottom	07	라임스톤	10000	0	0
+Bottom	08	러스트실버	10000	0	0
+Bottom	09	대리석 문양	10000	0	0
+Bottom	10	흙판 문양	10000	0	0
+Bottom	11	기본 바탕	10000	0	0
+Pattern	01	체크	20000	0	0
+Pattern	02	큰 체크	20000	0	0
+Pattern	03	계단 문양	20000	0	0
+Pattern	04	톱니 스트라이프	20000	0	0
+Pattern	05	스트라이프	20000	0	0
+Pattern	06	사선	20000	0	0
+Pattern	07	작은 체크	20000	0	0
+Pattern	08	흑백 사각	20000	0	0
+Pattern	09	마름모 무늬	15000	0	0
+Pattern	10	빗방울	15000	0	0
+Pattern	11	물방울	15000	0	0
+Pattern	12	작은 십자	15000	0	0
+Pattern	13	창끝	15000	0	0
+Pattern	14	성벽	15000	0	0
+Pattern	15	새벽	15000	0	2
+Pattern	16	샹들리에	15000	0	0
+Pattern	17	코로나	15000	0	0
+Pattern	18	거친 무늬	15000	0	0
+Pattern	19	와플	15000	0	0
+Pattern	20	가죽	15000	0	0
+Symbol	01	전쟁의 상처	30000	0	0
+Symbol	02	힘과 영광	30000	0	0
+Symbol	03	빛나는 승리	30000	0	0
+Symbol	04	영혼의 왕관	30000	0	0
+Symbol	05	사라만다의 검	30000	0	0
+Symbol	06	전승의 방패	30000	0	0
+Symbol	07	신념의 징표	30000	0	0
+Symbol	08	가시돋힌 장미	30000	0	0
+Symbol	09	칼의 맹세	30000	0	0
+Symbol	10	협동 의지	30000	0	0
+Symbol	11	철의 태양	20000	0	0
+Symbol	12	조화	20000	0	0
+Symbol	13	혼란	20000	0	0
+Symbol	14	민중의 수호자	40000	0	0
+Symbol	15	저돌	40000	0	0
+Symbol	16	권력과 위엄	40000	0	0
+Symbol	17	스타더스트	40000	0	0
+Symbol	18	정령의 분노	40000	0	0
+Symbol	19	분노	40000	0	0
+Symbol	20	황금 왕관	40000	0	0
+Symbol	21	숲의 활	40000	0	0
+Symbol	22	경쟁하는 뱀	40000	0	0
+Color	1	색1	0	FF65272D	0
+Color	2	색2	0	FF6C261A	0
+Color	3	색3	0	FF704537	0
+Color	4	색4	0	FF36412D	0
+Color	5	색5	0	FF3A3542	0
+Color	6	색6	0	FF3E313D	0
+Color	7	색7	0	FF4B4740	0
+Color	8	색8	0	FF000000	0
+Color	9	색9	0	FFA25755	0
+Color	10	색10	0	FFA15E42	0
+Color	11	색11	0	FFA67B5C	0
+Color	12	색12	0	FF6C7D57	0
+Color	13	색13	0	FF686174	0
+Color	14	색14	0	FF715E6B	0
+Color	15	색15	0	FF7E7B6C	0
+Color	16	색16	0	FF777777	0
+Color	17	색17	0	FFE6AC9F	0
+Color	18	색18	0	FFE7B581	0
+Color	19	색19	0	FFEAD2A4	0
+Color	20	색20	0	FFCDD59F	0
+Color	21	색21	0	FFBFBCD0	0
+Color	22	색22	0	FFC6AAB8	0
+Color	23	색23	0	FFEBEBCD	0
+Color	24	색24	0	FFFFFFFF	0

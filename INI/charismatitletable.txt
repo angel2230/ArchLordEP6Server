@@ -1,0 +1,15 @@
+Charisma Point Min	Charisma Point Max	Title
+0	99	
+100	199	Novice
+200	399	Tough
+400	699	Brutal
+700	1099	Batter
+1100	2099	Rash
+2100	3499	Warhead
+3500	5499	Wrecker
+5500	9999	Crusher
+10000	15999	Erasure
+16000	24999	Great
+25000	39999	Scarer
+40000	69999	Darkness
+70000	1000000	Fates
